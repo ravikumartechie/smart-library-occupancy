@@ -1,0 +1,4381 @@
+date,category,books_borrowed
+2024-07-01,Computer Science,21
+2024-07-02,Computer Science,21
+2024-07-03,Computer Science,21
+2024-07-04,Computer Science,30
+2024-07-05,Computer Science,19
+2024-07-06,Computer Science,16
+2024-07-07,Computer Science,16
+2024-07-08,Computer Science,26
+2024-07-09,Computer Science,15
+2024-07-10,Computer Science,31
+2024-07-11,Computer Science,18
+2024-07-12,Computer Science,10
+2024-07-13,Computer Science,18
+2024-07-14,Computer Science,10
+2024-07-15,Computer Science,19
+2024-07-16,Computer Science,17
+2024-07-17,Computer Science,24
+2024-07-18,Computer Science,14
+2024-07-19,Computer Science,19
+2024-07-20,Computer Science,16
+2024-07-21,Computer Science,21
+2024-07-22,Computer Science,64
+2024-07-23,Computer Science,67
+2024-07-24,Computer Science,65
+2024-07-25,Computer Science,52
+2024-07-26,Computer Science,46
+2024-07-27,Computer Science,32
+2024-07-28,Computer Science,27
+2024-07-29,Computer Science,47
+2024-07-30,Computer Science,52
+2024-07-31,Computer Science,73
+2024-08-01,Computer Science,59
+2024-08-02,Computer Science,37
+2024-08-03,Computer Science,32
+2024-08-04,Computer Science,26
+2024-08-05,Computer Science,62
+2024-08-06,Computer Science,70
+2024-08-07,Computer Science,66
+2024-08-08,Computer Science,58
+2024-08-09,Computer Science,36
+2024-08-10,Computer Science,47
+2024-08-11,Computer Science,15
+2024-08-12,Computer Science,53
+2024-08-13,Computer Science,35
+2024-08-14,Computer Science,56
+2024-08-15,Computer Science,8
+2024-08-16,Computer Science,53
+2024-08-17,Computer Science,39
+2024-08-18,Computer Science,28
+2024-08-19,Computer Science,54
+2024-08-20,Computer Science,53
+2024-08-21,Computer Science,63
+2024-08-22,Computer Science,66
+2024-08-23,Computer Science,63
+2024-08-24,Computer Science,46
+2024-08-25,Computer Science,24
+2024-08-26,Computer Science,52
+2024-08-27,Computer Science,60
+2024-08-28,Computer Science,64
+2024-08-29,Computer Science,61
+2024-08-30,Computer Science,56
+2024-08-31,Computer Science,28
+2024-09-01,Computer Science,26
+2024-09-02,Computer Science,47
+2024-09-03,Computer Science,54
+2024-09-04,Computer Science,57
+2024-09-05,Computer Science,56
+2024-09-06,Computer Science,49
+2024-09-07,Computer Science,40
+2024-09-08,Computer Science,15
+2024-09-09,Computer Science,53
+2024-09-10,Computer Science,56
+2024-09-11,Computer Science,55
+2024-09-12,Computer Science,49
+2024-09-13,Computer Science,40
+2024-09-14,Computer Science,27
+2024-09-15,Computer Science,25
+2024-09-16,Computer Science,46
+2024-09-17,Computer Science,66
+2024-09-18,Computer Science,66
+2024-09-19,Computer Science,52
+2024-09-20,Computer Science,53
+2024-09-21,Computer Science,51
+2024-09-22,Computer Science,25
+2024-09-23,Computer Science,98
+2024-09-24,Computer Science,77
+2024-09-25,Computer Science,91
+2024-09-26,Computer Science,60
+2024-09-27,Computer Science,79
+2024-09-28,Computer Science,52
+2024-09-29,Computer Science,21
+2024-09-30,Computer Science,61
+2024-10-01,Computer Science,61
+2024-10-02,Computer Science,11
+2024-10-03,Computer Science,56
+2024-10-04,Computer Science,43
+2024-10-05,Computer Science,40
+2024-10-06,Computer Science,24
+2024-10-07,Computer Science,62
+2024-10-08,Computer Science,56
+2024-10-09,Computer Science,44
+2024-10-10,Computer Science,55
+2024-10-11,Computer Science,47
+2024-10-12,Computer Science,8
+2024-10-13,Computer Science,27
+2024-10-14,Computer Science,62
+2024-10-15,Computer Science,62
+2024-10-16,Computer Science,57
+2024-10-17,Computer Science,61
+2024-10-18,Computer Science,55
+2024-10-19,Computer Science,44
+2024-10-20,Computer Science,20
+2024-10-21,Computer Science,63
+2024-10-22,Computer Science,48
+2024-10-23,Computer Science,69
+2024-10-24,Computer Science,62
+2024-10-25,Computer Science,47
+2024-10-26,Computer Science,28
+2024-10-27,Computer Science,27
+2024-10-28,Computer Science,52
+2024-10-29,Computer Science,60
+2024-10-30,Computer Science,67
+2024-10-31,Computer Science,58
+2024-11-01,Computer Science,9
+2024-11-02,Computer Science,44
+2024-11-03,Computer Science,27
+2024-11-04,Computer Science,53
+2024-11-05,Computer Science,51
+2024-11-06,Computer Science,73
+2024-11-07,Computer Science,56
+2024-11-08,Computer Science,55
+2024-11-09,Computer Science,33
+2024-11-10,Computer Science,32
+2024-11-11,Computer Science,43
+2024-11-12,Computer Science,67
+2024-11-13,Computer Science,60
+2024-11-14,Computer Science,46
+2024-11-15,Computer Science,49
+2024-11-16,Computer Science,30
+2024-11-17,Computer Science,14
+2024-11-18,Computer Science,54
+2024-11-19,Computer Science,54
+2024-11-20,Computer Science,47
+2024-11-21,Computer Science,64
+2024-11-22,Computer Science,53
+2024-11-23,Computer Science,49
+2024-11-24,Computer Science,31
+2024-11-25,Computer Science,86
+2024-11-26,Computer Science,77
+2024-11-27,Computer Science,80
+2024-11-28,Computer Science,87
+2024-11-29,Computer Science,62
+2024-11-30,Computer Science,47
+2024-12-01,Computer Science,33
+2024-12-02,Computer Science,80
+2024-12-03,Computer Science,97
+2024-12-04,Computer Science,66
+2024-12-05,Computer Science,88
+2024-12-06,Computer Science,72
+2024-12-07,Computer Science,37
+2024-12-08,Computer Science,39
+2024-12-09,Computer Science,79
+2024-12-10,Computer Science,80
+2024-12-11,Computer Science,70
+2024-12-12,Computer Science,72
+2024-12-13,Computer Science,72
+2024-12-14,Computer Science,49
+2024-12-15,Computer Science,6
+2024-12-16,Computer Science,16
+2024-12-17,Computer Science,16
+2024-12-18,Computer Science,29
+2024-12-19,Computer Science,23
+2024-12-20,Computer Science,16
+2024-12-21,Computer Science,7
+2024-12-22,Computer Science,9
+2024-12-23,Computer Science,22
+2024-12-24,Computer Science,18
+2024-12-25,Computer Science,2
+2024-12-26,Computer Science,23
+2024-12-27,Computer Science,25
+2024-12-28,Computer Science,9
+2024-12-29,Computer Science,15
+2024-12-30,Computer Science,17
+2024-12-31,Computer Science,15
+2025-01-01,Computer Science,17
+2025-01-02,Computer Science,29
+2025-01-03,Computer Science,26
+2025-01-04,Computer Science,13
+2025-01-05,Computer Science,6
+2025-01-06,Computer Science,55
+2025-01-07,Computer Science,57
+2025-01-08,Computer Science,68
+2025-01-09,Computer Science,61
+2025-01-10,Computer Science,48
+2025-01-11,Computer Science,31
+2025-01-12,Computer Science,33
+2025-01-13,Computer Science,56
+2025-01-14,Computer Science,74
+2025-01-15,Computer Science,63
+2025-01-16,Computer Science,44
+2025-01-17,Computer Science,52
+2025-01-18,Computer Science,44
+2025-01-19,Computer Science,22
+2025-01-20,Computer Science,58
+2025-01-21,Computer Science,60
+2025-01-22,Computer Science,78
+2025-01-23,Computer Science,49
+2025-01-24,Computer Science,38
+2025-01-25,Computer Science,36
+2025-01-26,Computer Science,4
+2025-01-27,Computer Science,58
+2025-01-28,Computer Science,66
+2025-01-29,Computer Science,61
+2025-01-30,Computer Science,40
+2025-01-31,Computer Science,50
+2025-02-01,Computer Science,28
+2025-02-02,Computer Science,23
+2025-02-03,Computer Science,59
+2025-02-04,Computer Science,59
+2025-02-05,Computer Science,56
+2025-02-06,Computer Science,49
+2025-02-07,Computer Science,55
+2025-02-08,Computer Science,42
+2025-02-09,Computer Science,20
+2025-02-10,Computer Science,45
+2025-02-11,Computer Science,61
+2025-02-12,Computer Science,64
+2025-02-13,Computer Science,64
+2025-02-14,Computer Science,44
+2025-02-15,Computer Science,37
+2025-02-16,Computer Science,22
+2025-02-17,Computer Science,59
+2025-02-18,Computer Science,59
+2025-02-19,Computer Science,87
+2025-02-20,Computer Science,62
+2025-02-21,Computer Science,53
+2025-02-22,Computer Science,29
+2025-02-23,Computer Science,35
+2025-02-24,Computer Science,85
+2025-02-25,Computer Science,89
+2025-02-26,Computer Science,94
+2025-02-27,Computer Science,81
+2025-02-28,Computer Science,64
+2025-03-01,Computer Science,42
+2025-03-02,Computer Science,18
+2025-03-03,Computer Science,60
+2025-03-04,Computer Science,60
+2025-03-05,Computer Science,58
+2025-03-06,Computer Science,77
+2025-03-07,Computer Science,53
+2025-03-08,Computer Science,40
+2025-03-09,Computer Science,20
+2025-03-10,Computer Science,68
+2025-03-11,Computer Science,61
+2025-03-12,Computer Science,74
+2025-03-13,Computer Science,59
+2025-03-14,Computer Science,4
+2025-03-15,Computer Science,36
+2025-03-16,Computer Science,16
+2025-03-17,Computer Science,45
+2025-03-18,Computer Science,64
+2025-03-19,Computer Science,49
+2025-03-20,Computer Science,63
+2025-03-21,Computer Science,47
+2025-03-22,Computer Science,35
+2025-03-23,Computer Science,22
+2025-03-24,Computer Science,56
+2025-03-25,Computer Science,61
+2025-03-26,Computer Science,61
+2025-03-27,Computer Science,60
+2025-03-28,Computer Science,48
+2025-03-29,Computer Science,35
+2025-03-30,Computer Science,27
+2025-03-31,Computer Science,63
+2025-04-01,Computer Science,55
+2025-04-02,Computer Science,58
+2025-04-03,Computer Science,54
+2025-04-04,Computer Science,48
+2025-04-05,Computer Science,40
+2025-04-06,Computer Science,21
+2025-04-07,Computer Science,58
+2025-04-08,Computer Science,62
+2025-04-09,Computer Science,57
+2025-04-10,Computer Science,48
+2025-04-11,Computer Science,50
+2025-04-12,Computer Science,33
+2025-04-13,Computer Science,17
+2025-04-14,Computer Science,54
+2025-04-15,Computer Science,50
+2025-04-16,Computer Science,79
+2025-04-17,Computer Science,48
+2025-04-18,Computer Science,43
+2025-04-19,Computer Science,38
+2025-04-20,Computer Science,22
+2025-04-21,Computer Science,66
+2025-04-22,Computer Science,57
+2025-04-23,Computer Science,54
+2025-04-24,Computer Science,64
+2025-04-25,Computer Science,50
+2025-04-26,Computer Science,32
+2025-04-27,Computer Science,23
+2025-04-28,Computer Science,73
+2025-04-29,Computer Science,96
+2025-04-30,Computer Science,86
+2025-05-01,Computer Science,89
+2025-05-02,Computer Science,79
+2025-05-03,Computer Science,39
+2025-05-04,Computer Science,36
+2025-05-05,Computer Science,72
+2025-05-06,Computer Science,88
+2025-05-07,Computer Science,83
+2025-05-08,Computer Science,75
+2025-05-09,Computer Science,74
+2025-05-10,Computer Science,58
+2025-05-11,Computer Science,32
+2025-05-12,Computer Science,94
+2025-05-13,Computer Science,90
+2025-05-14,Computer Science,82
+2025-05-15,Computer Science,69
+2025-05-16,Computer Science,67
+2025-05-17,Computer Science,44
+2025-05-18,Computer Science,7
+2025-05-19,Computer Science,18
+2025-05-20,Computer Science,30
+2025-05-21,Computer Science,30
+2025-05-22,Computer Science,24
+2025-05-23,Computer Science,19
+2025-05-24,Computer Science,15
+2025-05-25,Computer Science,6
+2025-05-26,Computer Science,25
+2025-05-27,Computer Science,24
+2025-05-28,Computer Science,16
+2025-05-29,Computer Science,15
+2025-05-30,Computer Science,17
+2025-05-31,Computer Science,8
+2025-06-01,Computer Science,9
+2025-06-02,Computer Science,23
+2025-06-03,Computer Science,17
+2025-06-04,Computer Science,17
+2025-06-05,Computer Science,16
+2025-06-06,Computer Science,19
+2025-06-07,Computer Science,17
+2025-06-08,Computer Science,7
+2025-06-09,Computer Science,16
+2025-06-10,Computer Science,18
+2025-06-11,Computer Science,18
+2025-06-12,Computer Science,21
+2025-06-13,Computer Science,11
+2025-06-14,Computer Science,15
+2025-06-15,Computer Science,10
+2025-06-16,Computer Science,15
+2025-06-17,Computer Science,19
+2025-06-18,Computer Science,27
+2025-06-19,Computer Science,13
+2025-06-20,Computer Science,15
+2025-06-21,Computer Science,16
+2025-06-22,Computer Science,6
+2025-06-23,Computer Science,20
+2025-06-24,Computer Science,19
+2025-06-25,Computer Science,20
+2025-06-26,Computer Science,20
+2025-06-27,Computer Science,19
+2025-06-28,Computer Science,16
+2025-06-29,Computer Science,8
+2025-06-30,Computer Science,14
+2025-07-01,Computer Science,28
+2025-07-02,Computer Science,22
+2025-07-03,Computer Science,17
+2025-07-04,Computer Science,8
+2025-07-05,Computer Science,7
+2025-07-06,Computer Science,12
+2025-07-07,Computer Science,15
+2025-07-08,Computer Science,29
+2025-07-09,Computer Science,23
+2025-07-10,Computer Science,23
+2025-07-11,Computer Science,24
+2025-07-12,Computer Science,12
+2025-07-13,Computer Science,8
+2025-07-14,Computer Science,19
+2025-07-15,Computer Science,15
+2025-07-16,Computer Science,18
+2025-07-17,Computer Science,23
+2025-07-18,Computer Science,18
+2025-07-19,Computer Science,9
+2025-07-20,Computer Science,10
+2025-07-21,Computer Science,55
+2025-07-22,Computer Science,51
+2025-07-23,Computer Science,56
+2025-07-24,Computer Science,57
+2025-07-25,Computer Science,49
+2025-07-26,Computer Science,37
+2025-07-27,Computer Science,18
+2025-07-28,Computer Science,58
+2025-07-29,Computer Science,44
+2025-07-30,Computer Science,67
+2025-07-31,Computer Science,51
+2025-08-01,Computer Science,43
+2025-08-02,Computer Science,31
+2025-08-03,Computer Science,19
+2025-08-04,Computer Science,51
+2025-08-05,Computer Science,57
+2025-08-06,Computer Science,58
+2025-08-07,Computer Science,70
+2025-08-08,Computer Science,46
+2025-08-09,Computer Science,39
+2025-08-10,Computer Science,28
+2025-08-11,Computer Science,63
+2025-08-12,Computer Science,56
+2025-08-13,Computer Science,54
+2025-08-14,Computer Science,68
+2025-08-15,Computer Science,6
+2025-08-16,Computer Science,33
+2025-08-17,Computer Science,25
+2025-08-18,Computer Science,58
+2025-08-19,Computer Science,51
+2025-08-20,Computer Science,65
+2025-08-21,Computer Science,70
+2025-08-22,Computer Science,58
+2025-08-23,Computer Science,40
+2025-08-24,Computer Science,25
+2025-08-25,Computer Science,68
+2025-08-26,Computer Science,45
+2025-08-27,Computer Science,65
+2025-08-28,Computer Science,56
+2025-08-29,Computer Science,52
+2025-08-30,Computer Science,26
+2025-08-31,Computer Science,27
+2025-09-01,Computer Science,55
+2025-09-02,Computer Science,62
+2025-09-03,Computer Science,62
+2025-09-04,Computer Science,56
+2025-09-05,Computer Science,66
+2025-09-06,Computer Science,27
+2025-09-07,Computer Science,28
+2025-09-08,Computer Science,57
+2025-09-09,Computer Science,59
+2025-09-10,Computer Science,55
+2025-09-11,Computer Science,58
+2025-09-12,Computer Science,46
+2025-09-13,Computer Science,40
+2025-09-14,Computer Science,31
+2025-09-15,Computer Science,70
+2025-09-16,Computer Science,70
+2025-09-17,Computer Science,47
+2025-09-18,Computer Science,66
+2025-09-19,Computer Science,50
+2025-09-20,Computer Science,43
+2025-09-21,Computer Science,30
+2025-09-22,Computer Science,86
+2025-09-23,Computer Science,81
+2025-09-24,Computer Science,71
+2025-09-25,Computer Science,97
+2025-09-26,Computer Science,71
+2025-09-27,Computer Science,51
+2025-09-28,Computer Science,24
+2025-09-29,Computer Science,68
+2025-09-30,Computer Science,81
+2025-10-01,Computer Science,50
+2025-10-02,Computer Science,16
+2025-10-03,Computer Science,58
+2025-10-04,Computer Science,39
+2025-10-05,Computer Science,23
+2025-10-06,Computer Science,67
+2025-10-07,Computer Science,66
+2025-10-08,Computer Science,49
+2025-10-09,Computer Science,67
+2025-10-10,Computer Science,53
+2025-10-11,Computer Science,31
+2025-10-12,Computer Science,18
+2025-10-13,Computer Science,50
+2025-10-14,Computer Science,46
+2025-10-15,Computer Science,59
+2025-10-16,Computer Science,57
+2025-10-17,Computer Science,61
+2025-10-18,Computer Science,30
+2025-10-19,Computer Science,24
+2025-10-20,Computer Science,18
+2025-10-21,Computer Science,55
+2025-10-22,Computer Science,58
+2025-10-23,Computer Science,51
+2025-10-24,Computer Science,66
+2025-10-25,Computer Science,25
+2025-10-26,Computer Science,21
+2025-10-27,Computer Science,56
+2025-10-28,Computer Science,55
+2025-10-29,Computer Science,63
+2025-10-30,Computer Science,58
+2025-10-31,Computer Science,42
+2025-11-01,Computer Science,35
+2025-11-02,Computer Science,19
+2025-11-03,Computer Science,47
+2025-11-04,Computer Science,71
+2025-11-05,Computer Science,62
+2025-11-06,Computer Science,57
+2025-11-07,Computer Science,58
+2025-11-08,Computer Science,36
+2025-11-09,Computer Science,19
+2025-11-10,Computer Science,53
+2025-11-11,Computer Science,61
+2025-11-12,Computer Science,49
+2025-11-13,Computer Science,58
+2025-11-14,Computer Science,50
+2025-11-15,Computer Science,40
+2025-11-16,Computer Science,18
+2025-11-17,Computer Science,48
+2025-11-18,Computer Science,63
+2025-11-19,Computer Science,51
+2025-11-20,Computer Science,69
+2025-11-21,Computer Science,49
+2025-11-22,Computer Science,42
+2025-11-23,Computer Science,34
+2025-11-24,Computer Science,64
+2025-11-25,Computer Science,94
+2025-11-26,Computer Science,85
+2025-11-27,Computer Science,76
+2025-11-28,Computer Science,65
+2025-11-29,Computer Science,62
+2025-11-30,Computer Science,33
+2025-12-01,Computer Science,103
+2025-12-02,Computer Science,87
+2025-12-03,Computer Science,97
+2025-12-04,Computer Science,76
+2025-12-05,Computer Science,59
+2025-12-06,Computer Science,52
+2025-12-07,Computer Science,26
+2025-12-08,Computer Science,78
+2025-12-09,Computer Science,103
+2025-12-10,Computer Science,87
+2025-12-11,Computer Science,93
+2025-12-12,Computer Science,61
+2025-12-13,Computer Science,49
+2025-12-14,Computer Science,12
+2025-12-15,Computer Science,24
+2025-12-16,Computer Science,24
+2025-12-17,Computer Science,15
+2025-12-18,Computer Science,24
+2025-12-19,Computer Science,21
+2025-12-20,Computer Science,9
+2025-12-21,Computer Science,9
+2025-12-22,Computer Science,26
+2025-12-23,Computer Science,24
+2025-12-24,Computer Science,16
+2025-12-25,Computer Science,5
+2025-12-26,Computer Science,23
+2025-12-27,Computer Science,15
+2025-12-28,Computer Science,7
+2025-12-29,Computer Science,22
+2025-12-30,Computer Science,24
+2025-12-31,Computer Science,21
+2026-01-01,Computer Science,25
+2026-01-02,Computer Science,20
+2026-01-03,Computer Science,13
+2026-01-04,Computer Science,3
+2026-01-05,Computer Science,53
+2026-01-06,Computer Science,61
+2026-01-07,Computer Science,62
+2026-01-08,Computer Science,56
+2026-01-09,Computer Science,38
+2026-01-10,Computer Science,29
+2026-01-11,Computer Science,26
+2026-01-12,Computer Science,59
+2026-01-13,Computer Science,67
+2026-01-14,Computer Science,63
+2026-01-15,Computer Science,60
+2026-01-16,Computer Science,66
+2026-01-17,Computer Science,42
+2026-01-18,Computer Science,28
+2026-01-19,Computer Science,58
+2026-01-20,Computer Science,64
+2026-01-21,Computer Science,70
+2026-01-22,Computer Science,55
+2026-01-23,Computer Science,37
+2026-01-24,Computer Science,35
+2026-01-25,Computer Science,16
+2026-01-26,Computer Science,8
+2026-01-27,Computer Science,62
+2026-01-28,Computer Science,55
+2026-01-29,Computer Science,54
+2026-01-30,Computer Science,60
+2026-01-31,Computer Science,27
+2026-02-01,Computer Science,31
+2026-02-02,Computer Science,74
+2026-02-03,Computer Science,73
+2026-02-04,Computer Science,55
+2026-02-05,Computer Science,51
+2026-02-06,Computer Science,53
+2026-02-07,Computer Science,35
+2026-02-08,Computer Science,23
+2026-02-09,Computer Science,54
+2026-02-10,Computer Science,64
+2026-02-11,Computer Science,71
+2026-02-12,Computer Science,51
+2026-02-13,Computer Science,56
+2026-02-14,Computer Science,33
+2026-02-15,Computer Science,15
+2026-02-16,Computer Science,64
+2026-02-17,Computer Science,63
+2026-02-18,Computer Science,49
+2026-02-19,Computer Science,58
+2026-02-20,Computer Science,77
+2026-02-21,Computer Science,44
+2026-02-22,Computer Science,36
+2026-02-23,Computer Science,83
+2026-02-24,Computer Science,102
+2026-02-25,Computer Science,71
+2026-02-26,Computer Science,95
+2026-02-27,Computer Science,57
+2026-02-28,Computer Science,53
+2026-03-01,Computer Science,20
+2026-03-02,Computer Science,56
+2026-03-03,Computer Science,76
+2026-03-04,Computer Science,7
+2026-03-05,Computer Science,59
+2026-03-06,Computer Science,33
+2026-03-07,Computer Science,32
+2026-03-08,Computer Science,18
+2026-03-09,Computer Science,55
+2026-03-10,Computer Science,47
+2026-03-11,Computer Science,48
+2026-03-12,Computer Science,62
+2026-03-13,Computer Science,47
+2026-03-14,Computer Science,27
+2026-03-15,Computer Science,22
+2026-03-16,Computer Science,60
+2026-03-17,Computer Science,66
+2026-03-18,Computer Science,51
+2026-03-19,Computer Science,45
+2026-03-20,Computer Science,55
+2026-03-21,Computer Science,19
+2026-03-22,Computer Science,17
+2026-03-23,Computer Science,76
+2026-03-24,Computer Science,49
+2026-03-25,Computer Science,84
+2026-03-26,Computer Science,52
+2026-03-27,Computer Science,52
+2026-03-28,Computer Science,39
+2026-03-29,Computer Science,25
+2026-03-30,Computer Science,67
+2026-03-31,Computer Science,57
+2026-04-01,Computer Science,50
+2026-04-02,Computer Science,63
+2026-04-03,Computer Science,47
+2026-04-04,Computer Science,40
+2026-04-05,Computer Science,23
+2026-04-06,Computer Science,68
+2026-04-07,Computer Science,62
+2026-04-08,Computer Science,55
+2026-04-09,Computer Science,61
+2026-04-10,Computer Science,50
+2026-04-11,Computer Science,38
+2026-04-12,Computer Science,30
+2026-04-13,Computer Science,68
+2026-04-14,Computer Science,66
+2026-04-15,Computer Science,58
+2026-04-16,Computer Science,56
+2026-04-17,Computer Science,51
+2026-04-18,Computer Science,41
+2026-04-19,Computer Science,15
+2026-04-20,Computer Science,59
+2026-04-21,Computer Science,72
+2026-04-22,Computer Science,60
+2026-04-23,Computer Science,65
+2026-04-24,Computer Science,52
+2026-04-25,Computer Science,42
+2026-04-26,Computer Science,25
+2026-04-27,Computer Science,76
+2026-04-28,Computer Science,77
+2026-04-29,Computer Science,63
+2026-04-30,Computer Science,78
+2026-05-01,Computer Science,74
+2026-05-02,Computer Science,57
+2026-05-03,Computer Science,23
+2026-05-04,Computer Science,83
+2026-05-05,Computer Science,92
+2026-05-06,Computer Science,101
+2026-05-07,Computer Science,66
+2026-05-08,Computer Science,69
+2026-05-09,Computer Science,53
+2026-05-10,Computer Science,38
+2026-05-11,Computer Science,69
+2026-05-12,Computer Science,89
+2026-05-13,Computer Science,84
+2026-05-14,Computer Science,88
+2026-05-15,Computer Science,74
+2026-05-16,Computer Science,45
+2026-05-17,Computer Science,8
+2026-05-18,Computer Science,22
+2026-05-19,Computer Science,30
+2026-05-20,Computer Science,26
+2026-05-21,Computer Science,15
+2026-05-22,Computer Science,14
+2026-05-23,Computer Science,17
+2026-05-24,Computer Science,11
+2026-05-25,Computer Science,19
+2026-05-26,Computer Science,26
+2026-05-27,Computer Science,11
+2026-05-28,Computer Science,20
+2026-05-29,Computer Science,19
+2026-05-30,Computer Science,13
+2026-05-31,Computer Science,5
+2026-06-01,Computer Science,22
+2026-06-02,Computer Science,18
+2026-06-03,Computer Science,22
+2026-06-04,Computer Science,19
+2026-06-05,Computer Science,21
+2026-06-06,Computer Science,14
+2026-06-07,Computer Science,10
+2026-06-08,Computer Science,21
+2026-06-09,Computer Science,21
+2026-06-10,Computer Science,19
+2026-06-11,Computer Science,19
+2026-06-12,Computer Science,21
+2026-06-13,Computer Science,10
+2026-06-14,Computer Science,11
+2026-06-15,Computer Science,16
+2026-06-16,Computer Science,19
+2026-06-17,Computer Science,16
+2026-06-18,Computer Science,20
+2026-06-19,Computer Science,15
+2026-06-20,Computer Science,13
+2026-06-21,Computer Science,5
+2026-06-22,Computer Science,17
+2026-06-23,Computer Science,23
+2026-06-24,Computer Science,20
+2026-06-25,Computer Science,23
+2026-06-26,Computer Science,18
+2026-06-27,Computer Science,10
+2026-06-28,Computer Science,16
+2026-06-29,Computer Science,14
+2026-06-30,Computer Science,20
+2024-07-01,Engineering,18
+2024-07-02,Engineering,35
+2024-07-03,Engineering,26
+2024-07-04,Engineering,31
+2024-07-05,Engineering,34
+2024-07-06,Engineering,15
+2024-07-07,Engineering,8
+2024-07-08,Engineering,16
+2024-07-09,Engineering,30
+2024-07-10,Engineering,28
+2024-07-11,Engineering,30
+2024-07-12,Engineering,27
+2024-07-13,Engineering,16
+2024-07-14,Engineering,8
+2024-07-15,Engineering,20
+2024-07-16,Engineering,29
+2024-07-17,Engineering,29
+2024-07-18,Engineering,32
+2024-07-19,Engineering,19
+2024-07-20,Engineering,15
+2024-07-21,Engineering,32
+2024-07-22,Engineering,66
+2024-07-23,Engineering,97
+2024-07-24,Engineering,89
+2024-07-25,Engineering,78
+2024-07-26,Engineering,54
+2024-07-27,Engineering,57
+2024-07-28,Engineering,28
+2024-07-29,Engineering,78
+2024-07-30,Engineering,73
+2024-07-31,Engineering,70
+2024-08-01,Engineering,69
+2024-08-02,Engineering,72
+2024-08-03,Engineering,60
+2024-08-04,Engineering,36
+2024-08-05,Engineering,81
+2024-08-06,Engineering,77
+2024-08-07,Engineering,73
+2024-08-08,Engineering,76
+2024-08-09,Engineering,56
+2024-08-10,Engineering,45
+2024-08-11,Engineering,32
+2024-08-12,Engineering,81
+2024-08-13,Engineering,78
+2024-08-14,Engineering,106
+2024-08-15,Engineering,13
+2024-08-16,Engineering,73
+2024-08-17,Engineering,51
+2024-08-18,Engineering,27
+2024-08-19,Engineering,85
+2024-08-20,Engineering,86
+2024-08-21,Engineering,83
+2024-08-22,Engineering,66
+2024-08-23,Engineering,55
+2024-08-24,Engineering,45
+2024-08-25,Engineering,34
+2024-08-26,Engineering,81
+2024-08-27,Engineering,64
+2024-08-28,Engineering,83
+2024-08-29,Engineering,79
+2024-08-30,Engineering,63
+2024-08-31,Engineering,53
+2024-09-01,Engineering,39
+2024-09-02,Engineering,80
+2024-09-03,Engineering,68
+2024-09-04,Engineering,81
+2024-09-05,Engineering,80
+2024-09-06,Engineering,77
+2024-09-07,Engineering,59
+2024-09-08,Engineering,40
+2024-09-09,Engineering,72
+2024-09-10,Engineering,97
+2024-09-11,Engineering,91
+2024-09-12,Engineering,76
+2024-09-13,Engineering,56
+2024-09-14,Engineering,40
+2024-09-15,Engineering,38
+2024-09-16,Engineering,85
+2024-09-17,Engineering,87
+2024-09-18,Engineering,88
+2024-09-19,Engineering,83
+2024-09-20,Engineering,73
+2024-09-21,Engineering,60
+2024-09-22,Engineering,46
+2024-09-23,Engineering,107
+2024-09-24,Engineering,115
+2024-09-25,Engineering,121
+2024-09-26,Engineering,114
+2024-09-27,Engineering,82
+2024-09-28,Engineering,65
+2024-09-29,Engineering,30
+2024-09-30,Engineering,64
+2024-10-01,Engineering,74
+2024-10-02,Engineering,16
+2024-10-03,Engineering,73
+2024-10-04,Engineering,62
+2024-10-05,Engineering,42
+2024-10-06,Engineering,27
+2024-10-07,Engineering,71
+2024-10-08,Engineering,78
+2024-10-09,Engineering,79
+2024-10-10,Engineering,62
+2024-10-11,Engineering,75
+2024-10-12,Engineering,13
+2024-10-13,Engineering,36
+2024-10-14,Engineering,86
+2024-10-15,Engineering,63
+2024-10-16,Engineering,85
+2024-10-17,Engineering,71
+2024-10-18,Engineering,61
+2024-10-19,Engineering,51
+2024-10-20,Engineering,37
+2024-10-21,Engineering,81
+2024-10-22,Engineering,76
+2024-10-23,Engineering,79
+2024-10-24,Engineering,64
+2024-10-25,Engineering,68
+2024-10-26,Engineering,46
+2024-10-27,Engineering,36
+2024-10-28,Engineering,79
+2024-10-29,Engineering,87
+2024-10-30,Engineering,84
+2024-10-31,Engineering,83
+2024-11-01,Engineering,18
+2024-11-02,Engineering,35
+2024-11-03,Engineering,26
+2024-11-04,Engineering,93
+2024-11-05,Engineering,88
+2024-11-06,Engineering,77
+2024-11-07,Engineering,74
+2024-11-08,Engineering,76
+2024-11-09,Engineering,52
+2024-11-10,Engineering,36
+2024-11-11,Engineering,72
+2024-11-12,Engineering,82
+2024-11-13,Engineering,69
+2024-11-14,Engineering,69
+2024-11-15,Engineering,62
+2024-11-16,Engineering,58
+2024-11-17,Engineering,33
+2024-11-18,Engineering,74
+2024-11-19,Engineering,99
+2024-11-20,Engineering,100
+2024-11-21,Engineering,93
+2024-11-22,Engineering,89
+2024-11-23,Engineering,68
+2024-11-24,Engineering,35
+2024-11-25,Engineering,111
+2024-11-26,Engineering,96
+2024-11-27,Engineering,107
+2024-11-28,Engineering,99
+2024-11-29,Engineering,94
+2024-11-30,Engineering,65
+2024-12-01,Engineering,58
+2024-12-02,Engineering,100
+2024-12-03,Engineering,105
+2024-12-04,Engineering,121
+2024-12-05,Engineering,132
+2024-12-06,Engineering,108
+2024-12-07,Engineering,68
+2024-12-08,Engineering,45
+2024-12-09,Engineering,102
+2024-12-10,Engineering,115
+2024-12-11,Engineering,115
+2024-12-12,Engineering,110
+2024-12-13,Engineering,104
+2024-12-14,Engineering,71
+2024-12-15,Engineering,10
+2024-12-16,Engineering,33
+2024-12-17,Engineering,31
+2024-12-18,Engineering,30
+2024-12-19,Engineering,25
+2024-12-20,Engineering,17
+2024-12-21,Engineering,19
+2024-12-22,Engineering,10
+2024-12-23,Engineering,27
+2024-12-24,Engineering,27
+2024-12-25,Engineering,3
+2024-12-26,Engineering,24
+2024-12-27,Engineering,24
+2024-12-28,Engineering,16
+2024-12-29,Engineering,7
+2024-12-30,Engineering,22
+2024-12-31,Engineering,29
+2025-01-01,Engineering,23
+2025-01-02,Engineering,36
+2025-01-03,Engineering,24
+2025-01-04,Engineering,22
+2025-01-05,Engineering,10
+2025-01-06,Engineering,68
+2025-01-07,Engineering,86
+2025-01-08,Engineering,84
+2025-01-09,Engineering,85
+2025-01-10,Engineering,70
+2025-01-11,Engineering,54
+2025-01-12,Engineering,30
+2025-01-13,Engineering,86
+2025-01-14,Engineering,67
+2025-01-15,Engineering,103
+2025-01-16,Engineering,84
+2025-01-17,Engineering,74
+2025-01-18,Engineering,57
+2025-01-19,Engineering,29
+2025-01-20,Engineering,63
+2025-01-21,Engineering,79
+2025-01-22,Engineering,85
+2025-01-23,Engineering,82
+2025-01-24,Engineering,65
+2025-01-25,Engineering,50
+2025-01-26,Engineering,7
+2025-01-27,Engineering,61
+2025-01-28,Engineering,78
+2025-01-29,Engineering,97
+2025-01-30,Engineering,65
+2025-01-31,Engineering,74
+2025-02-01,Engineering,43
+2025-02-02,Engineering,36
+2025-02-03,Engineering,74
+2025-02-04,Engineering,101
+2025-02-05,Engineering,71
+2025-02-06,Engineering,75
+2025-02-07,Engineering,73
+2025-02-08,Engineering,41
+2025-02-09,Engineering,30
+2025-02-10,Engineering,91
+2025-02-11,Engineering,89
+2025-02-12,Engineering,86
+2025-02-13,Engineering,73
+2025-02-14,Engineering,74
+2025-02-15,Engineering,45
+2025-02-16,Engineering,35
+2025-02-17,Engineering,62
+2025-02-18,Engineering,80
+2025-02-19,Engineering,80
+2025-02-20,Engineering,94
+2025-02-21,Engineering,64
+2025-02-22,Engineering,52
+2025-02-23,Engineering,47
+2025-02-24,Engineering,105
+2025-02-25,Engineering,112
+2025-02-26,Engineering,111
+2025-02-27,Engineering,121
+2025-02-28,Engineering,76
+2025-03-01,Engineering,63
+2025-03-02,Engineering,28
+2025-03-03,Engineering,88
+2025-03-04,Engineering,74
+2025-03-05,Engineering,77
+2025-03-06,Engineering,84
+2025-03-07,Engineering,69
+2025-03-08,Engineering,52
+2025-03-09,Engineering,37
+2025-03-10,Engineering,68
+2025-03-11,Engineering,87
+2025-03-12,Engineering,67
+2025-03-13,Engineering,91
+2025-03-14,Engineering,17
+2025-03-15,Engineering,56
+2025-03-16,Engineering,44
+2025-03-17,Engineering,69
+2025-03-18,Engineering,71
+2025-03-19,Engineering,82
+2025-03-20,Engineering,77
+2025-03-21,Engineering,69
+2025-03-22,Engineering,39
+2025-03-23,Engineering,26
+2025-03-24,Engineering,94
+2025-03-25,Engineering,80
+2025-03-26,Engineering,78
+2025-03-27,Engineering,75
+2025-03-28,Engineering,52
+2025-03-29,Engineering,48
+2025-03-30,Engineering,33
+2025-03-31,Engineering,78
+2025-04-01,Engineering,77
+2025-04-02,Engineering,76
+2025-04-03,Engineering,74
+2025-04-04,Engineering,76
+2025-04-05,Engineering,39
+2025-04-06,Engineering,30
+2025-04-07,Engineering,72
+2025-04-08,Engineering,92
+2025-04-09,Engineering,72
+2025-04-10,Engineering,86
+2025-04-11,Engineering,64
+2025-04-12,Engineering,51
+2025-04-13,Engineering,31
+2025-04-14,Engineering,77
+2025-04-15,Engineering,81
+2025-04-16,Engineering,72
+2025-04-17,Engineering,74
+2025-04-18,Engineering,62
+2025-04-19,Engineering,50
+2025-04-20,Engineering,30
+2025-04-21,Engineering,75
+2025-04-22,Engineering,73
+2025-04-23,Engineering,94
+2025-04-24,Engineering,73
+2025-04-25,Engineering,77
+2025-04-26,Engineering,69
+2025-04-27,Engineering,40
+2025-04-28,Engineering,123
+2025-04-29,Engineering,127
+2025-04-30,Engineering,116
+2025-05-01,Engineering,101
+2025-05-02,Engineering,77
+2025-05-03,Engineering,72
+2025-05-04,Engineering,49
+2025-05-05,Engineering,112
+2025-05-06,Engineering,114
+2025-05-07,Engineering,121
+2025-05-08,Engineering,113
+2025-05-09,Engineering,103
+2025-05-10,Engineering,67
+2025-05-11,Engineering,44
+2025-05-12,Engineering,113
+2025-05-13,Engineering,137
+2025-05-14,Engineering,105
+2025-05-15,Engineering,108
+2025-05-16,Engineering,101
+2025-05-17,Engineering,68
+2025-05-18,Engineering,8
+2025-05-19,Engineering,25
+2025-05-20,Engineering,21
+2025-05-21,Engineering,14
+2025-05-22,Engineering,23
+2025-05-23,Engineering,19
+2025-05-24,Engineering,14
+2025-05-25,Engineering,12
+2025-05-26,Engineering,23
+2025-05-27,Engineering,33
+2025-05-28,Engineering,25
+2025-05-29,Engineering,29
+2025-05-30,Engineering,27
+2025-05-31,Engineering,16
+2025-06-01,Engineering,12
+2025-06-02,Engineering,27
+2025-06-03,Engineering,32
+2025-06-04,Engineering,24
+2025-06-05,Engineering,23
+2025-06-06,Engineering,23
+2025-06-07,Engineering,11
+2025-06-08,Engineering,10
+2025-06-09,Engineering,27
+2025-06-10,Engineering,25
+2025-06-11,Engineering,26
+2025-06-12,Engineering,25
+2025-06-13,Engineering,22
+2025-06-14,Engineering,18
+2025-06-15,Engineering,7
+2025-06-16,Engineering,28
+2025-06-17,Engineering,22
+2025-06-18,Engineering,27
+2025-06-19,Engineering,29
+2025-06-20,Engineering,18
+2025-06-21,Engineering,15
+2025-06-22,Engineering,9
+2025-06-23,Engineering,29
+2025-06-24,Engineering,30
+2025-06-25,Engineering,23
+2025-06-26,Engineering,29
+2025-06-27,Engineering,26
+2025-06-28,Engineering,19
+2025-06-29,Engineering,14
+2025-06-30,Engineering,21
+2025-07-01,Engineering,42
+2025-07-02,Engineering,25
+2025-07-03,Engineering,26
+2025-07-04,Engineering,26
+2025-07-05,Engineering,19
+2025-07-06,Engineering,13
+2025-07-07,Engineering,33
+2025-07-08,Engineering,28
+2025-07-09,Engineering,26
+2025-07-10,Engineering,18
+2025-07-11,Engineering,27
+2025-07-12,Engineering,16
+2025-07-13,Engineering,9
+2025-07-14,Engineering,28
+2025-07-15,Engineering,24
+2025-07-16,Engineering,22
+2025-07-17,Engineering,27
+2025-07-18,Engineering,29
+2025-07-19,Engineering,14
+2025-07-20,Engineering,14
+2025-07-21,Engineering,72
+2025-07-22,Engineering,74
+2025-07-23,Engineering,78
+2025-07-24,Engineering,84
+2025-07-25,Engineering,68
+2025-07-26,Engineering,37
+2025-07-27,Engineering,34
+2025-07-28,Engineering,82
+2025-07-29,Engineering,77
+2025-07-30,Engineering,86
+2025-07-31,Engineering,86
+2025-08-01,Engineering,57
+2025-08-02,Engineering,45
+2025-08-03,Engineering,30
+2025-08-04,Engineering,79
+2025-08-05,Engineering,71
+2025-08-06,Engineering,66
+2025-08-07,Engineering,81
+2025-08-08,Engineering,76
+2025-08-09,Engineering,55
+2025-08-10,Engineering,36
+2025-08-11,Engineering,69
+2025-08-12,Engineering,74
+2025-08-13,Engineering,84
+2025-08-14,Engineering,69
+2025-08-15,Engineering,17
+2025-08-16,Engineering,36
+2025-08-17,Engineering,39
+2025-08-18,Engineering,86
+2025-08-19,Engineering,66
+2025-08-20,Engineering,72
+2025-08-21,Engineering,72
+2025-08-22,Engineering,61
+2025-08-23,Engineering,49
+2025-08-24,Engineering,35
+2025-08-25,Engineering,98
+2025-08-26,Engineering,77
+2025-08-27,Engineering,69
+2025-08-28,Engineering,81
+2025-08-29,Engineering,77
+2025-08-30,Engineering,46
+2025-08-31,Engineering,35
+2025-09-01,Engineering,73
+2025-09-02,Engineering,71
+2025-09-03,Engineering,73
+2025-09-04,Engineering,82
+2025-09-05,Engineering,64
+2025-09-06,Engineering,46
+2025-09-07,Engineering,27
+2025-09-08,Engineering,76
+2025-09-09,Engineering,82
+2025-09-10,Engineering,73
+2025-09-11,Engineering,76
+2025-09-12,Engineering,68
+2025-09-13,Engineering,51
+2025-09-14,Engineering,27
+2025-09-15,Engineering,84
+2025-09-16,Engineering,78
+2025-09-17,Engineering,83
+2025-09-18,Engineering,86
+2025-09-19,Engineering,67
+2025-09-20,Engineering,57
+2025-09-21,Engineering,29
+2025-09-22,Engineering,87
+2025-09-23,Engineering,109
+2025-09-24,Engineering,109
+2025-09-25,Engineering,107
+2025-09-26,Engineering,113
+2025-09-27,Engineering,75
+2025-09-28,Engineering,35
+2025-09-29,Engineering,62
+2025-09-30,Engineering,76
+2025-10-01,Engineering,79
+2025-10-02,Engineering,12
+2025-10-03,Engineering,58
+2025-10-04,Engineering,46
+2025-10-05,Engineering,38
+2025-10-06,Engineering,76
+2025-10-07,Engineering,79
+2025-10-08,Engineering,76
+2025-10-09,Engineering,71
+2025-10-10,Engineering,70
+2025-10-11,Engineering,46
+2025-10-12,Engineering,37
+2025-10-13,Engineering,67
+2025-10-14,Engineering,85
+2025-10-15,Engineering,69
+2025-10-16,Engineering,74
+2025-10-17,Engineering,62
+2025-10-18,Engineering,50
+2025-10-19,Engineering,35
+2025-10-20,Engineering,16
+2025-10-21,Engineering,71
+2025-10-22,Engineering,94
+2025-10-23,Engineering,70
+2025-10-24,Engineering,67
+2025-10-25,Engineering,54
+2025-10-26,Engineering,34
+2025-10-27,Engineering,76
+2025-10-28,Engineering,98
+2025-10-29,Engineering,90
+2025-10-30,Engineering,72
+2025-10-31,Engineering,72
+2025-11-01,Engineering,38
+2025-11-02,Engineering,25
+2025-11-03,Engineering,79
+2025-11-04,Engineering,73
+2025-11-05,Engineering,81
+2025-11-06,Engineering,70
+2025-11-07,Engineering,67
+2025-11-08,Engineering,46
+2025-11-09,Engineering,23
+2025-11-10,Engineering,96
+2025-11-11,Engineering,70
+2025-11-12,Engineering,88
+2025-11-13,Engineering,75
+2025-11-14,Engineering,50
+2025-11-15,Engineering,47
+2025-11-16,Engineering,28
+2025-11-17,Engineering,90
+2025-11-18,Engineering,65
+2025-11-19,Engineering,83
+2025-11-20,Engineering,78
+2025-11-21,Engineering,68
+2025-11-22,Engineering,55
+2025-11-23,Engineering,34
+2025-11-24,Engineering,102
+2025-11-25,Engineering,102
+2025-11-26,Engineering,117
+2025-11-27,Engineering,126
+2025-11-28,Engineering,86
+2025-11-29,Engineering,65
+2025-11-30,Engineering,41
+2025-12-01,Engineering,114
+2025-12-02,Engineering,101
+2025-12-03,Engineering,125
+2025-12-04,Engineering,113
+2025-12-05,Engineering,106
+2025-12-06,Engineering,68
+2025-12-07,Engineering,54
+2025-12-08,Engineering,114
+2025-12-09,Engineering,109
+2025-12-10,Engineering,90
+2025-12-11,Engineering,111
+2025-12-12,Engineering,92
+2025-12-13,Engineering,80
+2025-12-14,Engineering,15
+2025-12-15,Engineering,25
+2025-12-16,Engineering,26
+2025-12-17,Engineering,29
+2025-12-18,Engineering,22
+2025-12-19,Engineering,23
+2025-12-20,Engineering,30
+2025-12-21,Engineering,14
+2025-12-22,Engineering,23
+2025-12-23,Engineering,25
+2025-12-24,Engineering,33
+2025-12-25,Engineering,12
+2025-12-26,Engineering,20
+2025-12-27,Engineering,20
+2025-12-28,Engineering,11
+2025-12-29,Engineering,22
+2025-12-30,Engineering,25
+2025-12-31,Engineering,30
+2026-01-01,Engineering,27
+2026-01-02,Engineering,25
+2026-01-03,Engineering,23
+2026-01-04,Engineering,9
+2026-01-05,Engineering,75
+2026-01-06,Engineering,85
+2026-01-07,Engineering,96
+2026-01-08,Engineering,74
+2026-01-09,Engineering,78
+2026-01-10,Engineering,47
+2026-01-11,Engineering,28
+2026-01-12,Engineering,80
+2026-01-13,Engineering,72
+2026-01-14,Engineering,98
+2026-01-15,Engineering,77
+2026-01-16,Engineering,73
+2026-01-17,Engineering,40
+2026-01-18,Engineering,33
+2026-01-19,Engineering,94
+2026-01-20,Engineering,71
+2026-01-21,Engineering,70
+2026-01-22,Engineering,76
+2026-01-23,Engineering,69
+2026-01-24,Engineering,52
+2026-01-25,Engineering,37
+2026-01-26,Engineering,19
+2026-01-27,Engineering,91
+2026-01-28,Engineering,107
+2026-01-29,Engineering,84
+2026-01-30,Engineering,62
+2026-01-31,Engineering,44
+2026-02-01,Engineering,29
+2026-02-02,Engineering,77
+2026-02-03,Engineering,89
+2026-02-04,Engineering,66
+2026-02-05,Engineering,71
+2026-02-06,Engineering,70
+2026-02-07,Engineering,58
+2026-02-08,Engineering,40
+2026-02-09,Engineering,80
+2026-02-10,Engineering,91
+2026-02-11,Engineering,80
+2026-02-12,Engineering,78
+2026-02-13,Engineering,64
+2026-02-14,Engineering,45
+2026-02-15,Engineering,25
+2026-02-16,Engineering,68
+2026-02-17,Engineering,62
+2026-02-18,Engineering,93
+2026-02-19,Engineering,89
+2026-02-20,Engineering,65
+2026-02-21,Engineering,51
+2026-02-22,Engineering,42
+2026-02-23,Engineering,93
+2026-02-24,Engineering,118
+2026-02-25,Engineering,116
+2026-02-26,Engineering,92
+2026-02-27,Engineering,102
+2026-02-28,Engineering,73
+2026-03-01,Engineering,38
+2026-03-02,Engineering,94
+2026-03-03,Engineering,69
+2026-03-04,Engineering,15
+2026-03-05,Engineering,83
+2026-03-06,Engineering,69
+2026-03-07,Engineering,47
+2026-03-08,Engineering,28
+2026-03-09,Engineering,77
+2026-03-10,Engineering,67
+2026-03-11,Engineering,62
+2026-03-12,Engineering,81
+2026-03-13,Engineering,65
+2026-03-14,Engineering,45
+2026-03-15,Engineering,43
+2026-03-16,Engineering,66
+2026-03-17,Engineering,93
+2026-03-18,Engineering,73
+2026-03-19,Engineering,66
+2026-03-20,Engineering,82
+2026-03-21,Engineering,41
+2026-03-22,Engineering,35
+2026-03-23,Engineering,80
+2026-03-24,Engineering,94
+2026-03-25,Engineering,80
+2026-03-26,Engineering,78
+2026-03-27,Engineering,68
+2026-03-28,Engineering,35
+2026-03-29,Engineering,29
+2026-03-30,Engineering,84
+2026-03-31,Engineering,64
+2026-04-01,Engineering,73
+2026-04-02,Engineering,76
+2026-04-03,Engineering,67
+2026-04-04,Engineering,34
+2026-04-05,Engineering,28
+2026-04-06,Engineering,77
+2026-04-07,Engineering,73
+2026-04-08,Engineering,85
+2026-04-09,Engineering,74
+2026-04-10,Engineering,56
+2026-04-11,Engineering,34
+2026-04-12,Engineering,33
+2026-04-13,Engineering,83
+2026-04-14,Engineering,74
+2026-04-15,Engineering,83
+2026-04-16,Engineering,76
+2026-04-17,Engineering,70
+2026-04-18,Engineering,45
+2026-04-19,Engineering,37
+2026-04-20,Engineering,78
+2026-04-21,Engineering,86
+2026-04-22,Engineering,93
+2026-04-23,Engineering,84
+2026-04-24,Engineering,88
+2026-04-25,Engineering,48
+2026-04-26,Engineering,38
+2026-04-27,Engineering,103
+2026-04-28,Engineering,111
+2026-04-29,Engineering,110
+2026-04-30,Engineering,99
+2026-05-01,Engineering,99
+2026-05-02,Engineering,74
+2026-05-03,Engineering,42
+2026-05-04,Engineering,106
+2026-05-05,Engineering,119
+2026-05-06,Engineering,108
+2026-05-07,Engineering,98
+2026-05-08,Engineering,103
+2026-05-09,Engineering,65
+2026-05-10,Engineering,47
+2026-05-11,Engineering,105
+2026-05-12,Engineering,102
+2026-05-13,Engineering,105
+2026-05-14,Engineering,120
+2026-05-15,Engineering,91
+2026-05-16,Engineering,77
+2026-05-17,Engineering,9
+2026-05-18,Engineering,26
+2026-05-19,Engineering,24
+2026-05-20,Engineering,41
+2026-05-21,Engineering,24
+2026-05-22,Engineering,28
+2026-05-23,Engineering,15
+2026-05-24,Engineering,15
+2026-05-25,Engineering,20
+2026-05-26,Engineering,25
+2026-05-27,Engineering,22
+2026-05-28,Engineering,24
+2026-05-29,Engineering,18
+2026-05-30,Engineering,18
+2026-05-31,Engineering,15
+2026-06-01,Engineering,25
+2026-06-02,Engineering,29
+2026-06-03,Engineering,25
+2026-06-04,Engineering,26
+2026-06-05,Engineering,21
+2026-06-06,Engineering,13
+2026-06-07,Engineering,9
+2026-06-08,Engineering,22
+2026-06-09,Engineering,29
+2026-06-10,Engineering,28
+2026-06-11,Engineering,29
+2026-06-12,Engineering,13
+2026-06-13,Engineering,16
+2026-06-14,Engineering,11
+2026-06-15,Engineering,26
+2026-06-16,Engineering,40
+2026-06-17,Engineering,45
+2026-06-18,Engineering,27
+2026-06-19,Engineering,23
+2026-06-20,Engineering,17
+2026-06-21,Engineering,3
+2026-06-22,Engineering,31
+2026-06-23,Engineering,23
+2026-06-24,Engineering,27
+2026-06-25,Engineering,32
+2026-06-26,Engineering,17
+2026-06-27,Engineering,26
+2026-06-28,Engineering,11
+2026-06-29,Engineering,29
+2026-06-30,Engineering,24
+2024-07-01,Management,17
+2024-07-02,Management,13
+2024-07-03,Management,11
+2024-07-04,Management,8
+2024-07-05,Management,16
+2024-07-06,Management,7
+2024-07-07,Management,3
+2024-07-08,Management,12
+2024-07-09,Management,12
+2024-07-10,Management,17
+2024-07-11,Management,10
+2024-07-12,Management,9
+2024-07-13,Management,8
+2024-07-14,Management,3
+2024-07-15,Management,11
+2024-07-16,Management,14
+2024-07-17,Management,17
+2024-07-18,Management,15
+2024-07-19,Management,11
+2024-07-20,Management,10
+2024-07-21,Management,19
+2024-07-22,Management,35
+2024-07-23,Management,42
+2024-07-24,Management,41
+2024-07-25,Management,37
+2024-07-26,Management,35
+2024-07-27,Management,24
+2024-07-28,Management,18
+2024-07-29,Management,36
+2024-07-30,Management,47
+2024-07-31,Management,45
+2024-08-01,Management,32
+2024-08-02,Management,38
+2024-08-03,Management,29
+2024-08-04,Management,13
+2024-08-05,Management,30
+2024-08-06,Management,37
+2024-08-07,Management,38
+2024-08-08,Management,30
+2024-08-09,Management,41
+2024-08-10,Management,20
+2024-08-11,Management,15
+2024-08-12,Management,41
+2024-08-13,Management,38
+2024-08-14,Management,41
+2024-08-15,Management,11
+2024-08-16,Management,28
+2024-08-17,Management,18
+2024-08-18,Management,14
+2024-08-19,Management,46
+2024-08-20,Management,38
+2024-08-21,Management,38
+2024-08-22,Management,36
+2024-08-23,Management,31
+2024-08-24,Management,26
+2024-08-25,Management,19
+2024-08-26,Management,28
+2024-08-27,Management,36
+2024-08-28,Management,43
+2024-08-29,Management,33
+2024-08-30,Management,53
+2024-08-31,Management,20
+2024-09-01,Management,18
+2024-09-02,Management,38
+2024-09-03,Management,48
+2024-09-04,Management,40
+2024-09-05,Management,43
+2024-09-06,Management,31
+2024-09-07,Management,24
+2024-09-08,Management,12
+2024-09-09,Management,27
+2024-09-10,Management,44
+2024-09-11,Management,44
+2024-09-12,Management,44
+2024-09-13,Management,38
+2024-09-14,Management,20
+2024-09-15,Management,19
+2024-09-16,Management,33
+2024-09-17,Management,40
+2024-09-18,Management,48
+2024-09-19,Management,42
+2024-09-20,Management,43
+2024-09-21,Management,27
+2024-09-22,Management,21
+2024-09-23,Management,54
+2024-09-24,Management,56
+2024-09-25,Management,52
+2024-09-26,Management,65
+2024-09-27,Management,33
+2024-09-28,Management,27
+2024-09-29,Management,22
+2024-09-30,Management,30
+2024-10-01,Management,54
+2024-10-02,Management,7
+2024-10-03,Management,39
+2024-10-04,Management,27
+2024-10-05,Management,18
+2024-10-06,Management,12
+2024-10-07,Management,34
+2024-10-08,Management,46
+2024-10-09,Management,41
+2024-10-10,Management,32
+2024-10-11,Management,52
+2024-10-12,Management,11
+2024-10-13,Management,16
+2024-10-14,Management,40
+2024-10-15,Management,24
+2024-10-16,Management,34
+2024-10-17,Management,41
+2024-10-18,Management,25
+2024-10-19,Management,18
+2024-10-20,Management,15
+2024-10-21,Management,40
+2024-10-22,Management,37
+2024-10-23,Management,41
+2024-10-24,Management,39
+2024-10-25,Management,33
+2024-10-26,Management,24
+2024-10-27,Management,15
+2024-10-28,Management,37
+2024-10-29,Management,38
+2024-10-30,Management,34
+2024-10-31,Management,27
+2024-11-01,Management,9
+2024-11-02,Management,30
+2024-11-03,Management,23
+2024-11-04,Management,36
+2024-11-05,Management,27
+2024-11-06,Management,43
+2024-11-07,Management,37
+2024-11-08,Management,33
+2024-11-09,Management,26
+2024-11-10,Management,10
+2024-11-11,Management,47
+2024-11-12,Management,39
+2024-11-13,Management,31
+2024-11-14,Management,45
+2024-11-15,Management,25
+2024-11-16,Management,30
+2024-11-17,Management,22
+2024-11-18,Management,34
+2024-11-19,Management,53
+2024-11-20,Management,59
+2024-11-21,Management,53
+2024-11-22,Management,42
+2024-11-23,Management,27
+2024-11-24,Management,19
+2024-11-25,Management,49
+2024-11-26,Management,44
+2024-11-27,Management,47
+2024-11-28,Management,55
+2024-11-29,Management,54
+2024-11-30,Management,33
+2024-12-01,Management,21
+2024-12-02,Management,49
+2024-12-03,Management,65
+2024-12-04,Management,47
+2024-12-05,Management,57
+2024-12-06,Management,48
+2024-12-07,Management,40
+2024-12-08,Management,21
+2024-12-09,Management,51
+2024-12-10,Management,49
+2024-12-11,Management,53
+2024-12-12,Management,50
+2024-12-13,Management,44
+2024-12-14,Management,29
+2024-12-15,Management,6
+2024-12-16,Management,8
+2024-12-17,Management,19
+2024-12-18,Management,12
+2024-12-19,Management,16
+2024-12-20,Management,10
+2024-12-21,Management,8
+2024-12-22,Management,13
+2024-12-23,Management,12
+2024-12-24,Management,14
+2024-12-25,Management,2
+2024-12-26,Management,13
+2024-12-27,Management,8
+2024-12-28,Management,7
+2024-12-29,Management,6
+2024-12-30,Management,15
+2024-12-31,Management,10
+2025-01-01,Management,17
+2025-01-02,Management,15
+2025-01-03,Management,8
+2025-01-04,Management,11
+2025-01-05,Management,3
+2025-01-06,Management,33
+2025-01-07,Management,42
+2025-01-08,Management,33
+2025-01-09,Management,36
+2025-01-10,Management,37
+2025-01-11,Management,14
+2025-01-12,Management,19
+2025-01-13,Management,35
+2025-01-14,Management,40
+2025-01-15,Management,46
+2025-01-16,Management,32
+2025-01-17,Management,45
+2025-01-18,Management,18
+2025-01-19,Management,16
+2025-01-20,Management,39
+2025-01-21,Management,40
+2025-01-22,Management,44
+2025-01-23,Management,26
+2025-01-24,Management,34
+2025-01-25,Management,19
+2025-01-26,Management,2
+2025-01-27,Management,43
+2025-01-28,Management,39
+2025-01-29,Management,36
+2025-01-30,Management,28
+2025-01-31,Management,43
+2025-02-01,Management,25
+2025-02-02,Management,11
+2025-02-03,Management,33
+2025-02-04,Management,41
+2025-02-05,Management,45
+2025-02-06,Management,32
+2025-02-07,Management,32
+2025-02-08,Management,22
+2025-02-09,Management,15
+2025-02-10,Management,34
+2025-02-11,Management,46
+2025-02-12,Management,43
+2025-02-13,Management,41
+2025-02-14,Management,30
+2025-02-15,Management,28
+2025-02-16,Management,23
+2025-02-17,Management,38
+2025-02-18,Management,48
+2025-02-19,Management,45
+2025-02-20,Management,57
+2025-02-21,Management,38
+2025-02-22,Management,26
+2025-02-23,Management,18
+2025-02-24,Management,44
+2025-02-25,Management,52
+2025-02-26,Management,47
+2025-02-27,Management,46
+2025-02-28,Management,39
+2025-03-01,Management,25
+2025-03-02,Management,14
+2025-03-03,Management,43
+2025-03-04,Management,42
+2025-03-05,Management,38
+2025-03-06,Management,42
+2025-03-07,Management,39
+2025-03-08,Management,25
+2025-03-09,Management,15
+2025-03-10,Management,40
+2025-03-11,Management,50
+2025-03-12,Management,43
+2025-03-13,Management,36
+2025-03-14,Management,5
+2025-03-15,Management,25
+2025-03-16,Management,17
+2025-03-17,Management,44
+2025-03-18,Management,34
+2025-03-19,Management,34
+2025-03-20,Management,37
+2025-03-21,Management,30
+2025-03-22,Management,20
+2025-03-23,Management,16
+2025-03-24,Management,39
+2025-03-25,Management,32
+2025-03-26,Management,34
+2025-03-27,Management,40
+2025-03-28,Management,37
+2025-03-29,Management,22
+2025-03-30,Management,18
+2025-03-31,Management,42
+2025-04-01,Management,46
+2025-04-02,Management,46
+2025-04-03,Management,33
+2025-04-04,Management,31
+2025-04-05,Management,35
+2025-04-06,Management,12
+2025-04-07,Management,34
+2025-04-08,Management,36
+2025-04-09,Management,33
+2025-04-10,Management,41
+2025-04-11,Management,39
+2025-04-12,Management,24
+2025-04-13,Management,10
+2025-04-14,Management,45
+2025-04-15,Management,44
+2025-04-16,Management,58
+2025-04-17,Management,36
+2025-04-18,Management,36
+2025-04-19,Management,28
+2025-04-20,Management,17
+2025-04-21,Management,34
+2025-04-22,Management,50
+2025-04-23,Management,37
+2025-04-24,Management,42
+2025-04-25,Management,40
+2025-04-26,Management,29
+2025-04-27,Management,28
+2025-04-28,Management,51
+2025-04-29,Management,64
+2025-04-30,Management,57
+2025-05-01,Management,48
+2025-05-02,Management,41
+2025-05-03,Management,32
+2025-05-04,Management,23
+2025-05-05,Management,45
+2025-05-06,Management,64
+2025-05-07,Management,62
+2025-05-08,Management,55
+2025-05-09,Management,53
+2025-05-10,Management,24
+2025-05-11,Management,21
+2025-05-12,Management,45
+2025-05-13,Management,41
+2025-05-14,Management,56
+2025-05-15,Management,45
+2025-05-16,Management,45
+2025-05-17,Management,35
+2025-05-18,Management,6
+2025-05-19,Management,7
+2025-05-20,Management,11
+2025-05-21,Management,15
+2025-05-22,Management,12
+2025-05-23,Management,10
+2025-05-24,Management,9
+2025-05-25,Management,10
+2025-05-26,Management,14
+2025-05-27,Management,12
+2025-05-28,Management,10
+2025-05-29,Management,12
+2025-05-30,Management,12
+2025-05-31,Management,7
+2025-06-01,Management,4
+2025-06-02,Management,12
+2025-06-03,Management,10
+2025-06-04,Management,11
+2025-06-05,Management,11
+2025-06-06,Management,10
+2025-06-07,Management,8
+2025-06-08,Management,2
+2025-06-09,Management,4
+2025-06-10,Management,15
+2025-06-11,Management,14
+2025-06-12,Management,19
+2025-06-13,Management,11
+2025-06-14,Management,6
+2025-06-15,Management,7
+2025-06-16,Management,17
+2025-06-17,Management,16
+2025-06-18,Management,13
+2025-06-19,Management,11
+2025-06-20,Management,11
+2025-06-21,Management,6
+2025-06-22,Management,4
+2025-06-23,Management,8
+2025-06-24,Management,11
+2025-06-25,Management,12
+2025-06-26,Management,11
+2025-06-27,Management,10
+2025-06-28,Management,11
+2025-06-29,Management,4
+2025-06-30,Management,16
+2025-07-01,Management,17
+2025-07-02,Management,8
+2025-07-03,Management,13
+2025-07-04,Management,16
+2025-07-05,Management,7
+2025-07-06,Management,4
+2025-07-07,Management,18
+2025-07-08,Management,13
+2025-07-09,Management,7
+2025-07-10,Management,15
+2025-07-11,Management,18
+2025-07-12,Management,11
+2025-07-13,Management,4
+2025-07-14,Management,10
+2025-07-15,Management,17
+2025-07-16,Management,14
+2025-07-17,Management,16
+2025-07-18,Management,12
+2025-07-19,Management,7
+2025-07-20,Management,7
+2025-07-21,Management,26
+2025-07-22,Management,36
+2025-07-23,Management,34
+2025-07-24,Management,29
+2025-07-25,Management,45
+2025-07-26,Management,25
+2025-07-27,Management,17
+2025-07-28,Management,36
+2025-07-29,Management,41
+2025-07-30,Management,31
+2025-07-31,Management,28
+2025-08-01,Management,34
+2025-08-02,Management,30
+2025-08-03,Management,16
+2025-08-04,Management,51
+2025-08-05,Management,37
+2025-08-06,Management,38
+2025-08-07,Management,36
+2025-08-08,Management,34
+2025-08-09,Management,26
+2025-08-10,Management,12
+2025-08-11,Management,36
+2025-08-12,Management,51
+2025-08-13,Management,41
+2025-08-14,Management,46
+2025-08-15,Management,3
+2025-08-16,Management,29
+2025-08-17,Management,19
+2025-08-18,Management,29
+2025-08-19,Management,40
+2025-08-20,Management,45
+2025-08-21,Management,41
+2025-08-22,Management,33
+2025-08-23,Management,24
+2025-08-24,Management,24
+2025-08-25,Management,40
+2025-08-26,Management,41
+2025-08-27,Management,52
+2025-08-28,Management,36
+2025-08-29,Management,38
+2025-08-30,Management,18
+2025-08-31,Management,16
+2025-09-01,Management,34
+2025-09-02,Management,36
+2025-09-03,Management,39
+2025-09-04,Management,37
+2025-09-05,Management,37
+2025-09-06,Management,19
+2025-09-07,Management,17
+2025-09-08,Management,45
+2025-09-09,Management,40
+2025-09-10,Management,34
+2025-09-11,Management,30
+2025-09-12,Management,33
+2025-09-13,Management,27
+2025-09-14,Management,22
+2025-09-15,Management,24
+2025-09-16,Management,41
+2025-09-17,Management,42
+2025-09-18,Management,28
+2025-09-19,Management,44
+2025-09-20,Management,22
+2025-09-21,Management,29
+2025-09-22,Management,46
+2025-09-23,Management,50
+2025-09-24,Management,52
+2025-09-25,Management,57
+2025-09-26,Management,45
+2025-09-27,Management,32
+2025-09-28,Management,15
+2025-09-29,Management,32
+2025-09-30,Management,26
+2025-10-01,Management,49
+2025-10-02,Management,5
+2025-10-03,Management,28
+2025-10-04,Management,17
+2025-10-05,Management,16
+2025-10-06,Management,40
+2025-10-07,Management,29
+2025-10-08,Management,40
+2025-10-09,Management,42
+2025-10-10,Management,28
+2025-10-11,Management,16
+2025-10-12,Management,14
+2025-10-13,Management,39
+2025-10-14,Management,55
+2025-10-15,Management,46
+2025-10-16,Management,32
+2025-10-17,Management,32
+2025-10-18,Management,32
+2025-10-19,Management,10
+2025-10-20,Management,0
+2025-10-21,Management,46
+2025-10-22,Management,47
+2025-10-23,Management,32
+2025-10-24,Management,31
+2025-10-25,Management,23
+2025-10-26,Management,12
+2025-10-27,Management,35
+2025-10-28,Management,35
+2025-10-29,Management,47
+2025-10-30,Management,33
+2025-10-31,Management,38
+2025-11-01,Management,21
+2025-11-02,Management,17
+2025-11-03,Management,25
+2025-11-04,Management,36
+2025-11-05,Management,44
+2025-11-06,Management,33
+2025-11-07,Management,36
+2025-11-08,Management,22
+2025-11-09,Management,15
+2025-11-10,Management,31
+2025-11-11,Management,37
+2025-11-12,Management,42
+2025-11-13,Management,45
+2025-11-14,Management,38
+2025-11-15,Management,22
+2025-11-16,Management,19
+2025-11-17,Management,27
+2025-11-18,Management,34
+2025-11-19,Management,46
+2025-11-20,Management,40
+2025-11-21,Management,42
+2025-11-22,Management,33
+2025-11-23,Management,16
+2025-11-24,Management,54
+2025-11-25,Management,45
+2025-11-26,Management,58
+2025-11-27,Management,48
+2025-11-28,Management,41
+2025-11-29,Management,33
+2025-11-30,Management,21
+2025-12-01,Management,55
+2025-12-02,Management,52
+2025-12-03,Management,49
+2025-12-04,Management,47
+2025-12-05,Management,50
+2025-12-06,Management,37
+2025-12-07,Management,24
+2025-12-08,Management,64
+2025-12-09,Management,61
+2025-12-10,Management,64
+2025-12-11,Management,59
+2025-12-12,Management,54
+2025-12-13,Management,31
+2025-12-14,Management,3
+2025-12-15,Management,13
+2025-12-16,Management,15
+2025-12-17,Management,14
+2025-12-18,Management,19
+2025-12-19,Management,12
+2025-12-20,Management,8
+2025-12-21,Management,2
+2025-12-22,Management,17
+2025-12-23,Management,19
+2025-12-24,Management,12
+2025-12-25,Management,1
+2025-12-26,Management,9
+2025-12-27,Management,10
+2025-12-28,Management,6
+2025-12-29,Management,11
+2025-12-30,Management,8
+2025-12-31,Management,12
+2026-01-01,Management,11
+2026-01-02,Management,11
+2026-01-03,Management,16
+2026-01-04,Management,9
+2026-01-05,Management,37
+2026-01-06,Management,46
+2026-01-07,Management,42
+2026-01-08,Management,21
+2026-01-09,Management,35
+2026-01-10,Management,26
+2026-01-11,Management,12
+2026-01-12,Management,32
+2026-01-13,Management,36
+2026-01-14,Management,42
+2026-01-15,Management,47
+2026-01-16,Management,33
+2026-01-17,Management,19
+2026-01-18,Management,12
+2026-01-19,Management,32
+2026-01-20,Management,43
+2026-01-21,Management,33
+2026-01-22,Management,34
+2026-01-23,Management,29
+2026-01-24,Management,18
+2026-01-25,Management,12
+2026-01-26,Management,7
+2026-01-27,Management,31
+2026-01-28,Management,36
+2026-01-29,Management,43
+2026-01-30,Management,36
+2026-01-31,Management,20
+2026-02-01,Management,9
+2026-02-02,Management,37
+2026-02-03,Management,39
+2026-02-04,Management,34
+2026-02-05,Management,39
+2026-02-06,Management,29
+2026-02-07,Management,27
+2026-02-08,Management,19
+2026-02-09,Management,35
+2026-02-10,Management,45
+2026-02-11,Management,34
+2026-02-12,Management,39
+2026-02-13,Management,34
+2026-02-14,Management,23
+2026-02-15,Management,12
+2026-02-16,Management,34
+2026-02-17,Management,43
+2026-02-18,Management,46
+2026-02-19,Management,46
+2026-02-20,Management,39
+2026-02-21,Management,30
+2026-02-22,Management,21
+2026-02-23,Management,62
+2026-02-24,Management,69
+2026-02-25,Management,61
+2026-02-26,Management,55
+2026-02-27,Management,48
+2026-02-28,Management,30
+2026-03-01,Management,17
+2026-03-02,Management,43
+2026-03-03,Management,36
+2026-03-04,Management,11
+2026-03-05,Management,35
+2026-03-06,Management,34
+2026-03-07,Management,26
+2026-03-08,Management,19
+2026-03-09,Management,37
+2026-03-10,Management,36
+2026-03-11,Management,39
+2026-03-12,Management,38
+2026-03-13,Management,24
+2026-03-14,Management,19
+2026-03-15,Management,17
+2026-03-16,Management,40
+2026-03-17,Management,51
+2026-03-18,Management,39
+2026-03-19,Management,32
+2026-03-20,Management,40
+2026-03-21,Management,27
+2026-03-22,Management,15
+2026-03-23,Management,36
+2026-03-24,Management,34
+2026-03-25,Management,32
+2026-03-26,Management,39
+2026-03-27,Management,37
+2026-03-28,Management,29
+2026-03-29,Management,11
+2026-03-30,Management,42
+2026-03-31,Management,44
+2026-04-01,Management,44
+2026-04-02,Management,39
+2026-04-03,Management,40
+2026-04-04,Management,27
+2026-04-05,Management,11
+2026-04-06,Management,24
+2026-04-07,Management,40
+2026-04-08,Management,42
+2026-04-09,Management,38
+2026-04-10,Management,19
+2026-04-11,Management,21
+2026-04-12,Management,25
+2026-04-13,Management,40
+2026-04-14,Management,43
+2026-04-15,Management,39
+2026-04-16,Management,41
+2026-04-17,Management,25
+2026-04-18,Management,31
+2026-04-19,Management,16
+2026-04-20,Management,37
+2026-04-21,Management,56
+2026-04-22,Management,40
+2026-04-23,Management,44
+2026-04-24,Management,50
+2026-04-25,Management,26
+2026-04-26,Management,19
+2026-04-27,Management,59
+2026-04-28,Management,58
+2026-04-29,Management,58
+2026-04-30,Management,62
+2026-05-01,Management,46
+2026-05-02,Management,32
+2026-05-03,Management,20
+2026-05-04,Management,44
+2026-05-05,Management,72
+2026-05-06,Management,60
+2026-05-07,Management,56
+2026-05-08,Management,43
+2026-05-09,Management,24
+2026-05-10,Management,20
+2026-05-11,Management,49
+2026-05-12,Management,51
+2026-05-13,Management,56
+2026-05-14,Management,51
+2026-05-15,Management,45
+2026-05-16,Management,33
+2026-05-17,Management,13
+2026-05-18,Management,9
+2026-05-19,Management,12
+2026-05-20,Management,16
+2026-05-21,Management,12
+2026-05-22,Management,11
+2026-05-23,Management,7
+2026-05-24,Management,4
+2026-05-25,Management,13
+2026-05-26,Management,13
+2026-05-27,Management,8
+2026-05-28,Management,15
+2026-05-29,Management,13
+2026-05-30,Management,9
+2026-05-31,Management,6
+2026-06-01,Management,14
+2026-06-02,Management,6
+2026-06-03,Management,17
+2026-06-04,Management,12
+2026-06-05,Management,9
+2026-06-06,Management,10
+2026-06-07,Management,6
+2026-06-08,Management,12
+2026-06-09,Management,17
+2026-06-10,Management,17
+2026-06-11,Management,13
+2026-06-12,Management,16
+2026-06-13,Management,13
+2026-06-14,Management,5
+2026-06-15,Management,12
+2026-06-16,Management,11
+2026-06-17,Management,13
+2026-06-18,Management,15
+2026-06-19,Management,13
+2026-06-20,Management,8
+2026-06-21,Management,10
+2026-06-22,Management,12
+2026-06-23,Management,16
+2026-06-24,Management,9
+2026-06-25,Management,14
+2026-06-26,Management,16
+2026-06-27,Management,6
+2026-06-28,Management,8
+2026-06-29,Management,10
+2026-06-30,Management,17
+2024-07-01,Science,21
+2024-07-02,Science,24
+2024-07-03,Science,14
+2024-07-04,Science,22
+2024-07-05,Science,11
+2024-07-06,Science,13
+2024-07-07,Science,11
+2024-07-08,Science,13
+2024-07-09,Science,15
+2024-07-10,Science,10
+2024-07-11,Science,16
+2024-07-12,Science,18
+2024-07-13,Science,3
+2024-07-14,Science,4
+2024-07-15,Science,17
+2024-07-16,Science,24
+2024-07-17,Science,13
+2024-07-18,Science,20
+2024-07-19,Science,11
+2024-07-20,Science,9
+2024-07-21,Science,15
+2024-07-22,Science,54
+2024-07-23,Science,46
+2024-07-24,Science,43
+2024-07-25,Science,61
+2024-07-26,Science,50
+2024-07-27,Science,26
+2024-07-28,Science,11
+2024-07-29,Science,52
+2024-07-30,Science,48
+2024-07-31,Science,54
+2024-08-01,Science,62
+2024-08-02,Science,37
+2024-08-03,Science,29
+2024-08-04,Science,19
+2024-08-05,Science,48
+2024-08-06,Science,49
+2024-08-07,Science,65
+2024-08-08,Science,51
+2024-08-09,Science,51
+2024-08-10,Science,25
+2024-08-11,Science,24
+2024-08-12,Science,50
+2024-08-13,Science,45
+2024-08-14,Science,47
+2024-08-15,Science,4
+2024-08-16,Science,39
+2024-08-17,Science,33
+2024-08-18,Science,20
+2024-08-19,Science,53
+2024-08-20,Science,50
+2024-08-21,Science,34
+2024-08-22,Science,48
+2024-08-23,Science,46
+2024-08-24,Science,35
+2024-08-25,Science,25
+2024-08-26,Science,58
+2024-08-27,Science,65
+2024-08-28,Science,38
+2024-08-29,Science,47
+2024-08-30,Science,43
+2024-08-31,Science,32
+2024-09-01,Science,22
+2024-09-02,Science,42
+2024-09-03,Science,49
+2024-09-04,Science,54
+2024-09-05,Science,54
+2024-09-06,Science,47
+2024-09-07,Science,27
+2024-09-08,Science,27
+2024-09-09,Science,42
+2024-09-10,Science,55
+2024-09-11,Science,41
+2024-09-12,Science,54
+2024-09-13,Science,48
+2024-09-14,Science,30
+2024-09-15,Science,15
+2024-09-16,Science,38
+2024-09-17,Science,46
+2024-09-18,Science,57
+2024-09-19,Science,50
+2024-09-20,Science,56
+2024-09-21,Science,32
+2024-09-22,Science,25
+2024-09-23,Science,71
+2024-09-24,Science,70
+2024-09-25,Science,70
+2024-09-26,Science,57
+2024-09-27,Science,53
+2024-09-28,Science,44
+2024-09-29,Science,13
+2024-09-30,Science,46
+2024-10-01,Science,46
+2024-10-02,Science,4
+2024-10-03,Science,47
+2024-10-04,Science,46
+2024-10-05,Science,28
+2024-10-06,Science,22
+2024-10-07,Science,47
+2024-10-08,Science,63
+2024-10-09,Science,50
+2024-10-10,Science,46
+2024-10-11,Science,36
+2024-10-12,Science,6
+2024-10-13,Science,20
+2024-10-14,Science,47
+2024-10-15,Science,54
+2024-10-16,Science,63
+2024-10-17,Science,40
+2024-10-18,Science,37
+2024-10-19,Science,27
+2024-10-20,Science,16
+2024-10-21,Science,51
+2024-10-22,Science,53
+2024-10-23,Science,45
+2024-10-24,Science,53
+2024-10-25,Science,38
+2024-10-26,Science,32
+2024-10-27,Science,25
+2024-10-28,Science,47
+2024-10-29,Science,40
+2024-10-30,Science,61
+2024-10-31,Science,58
+2024-11-01,Science,2
+2024-11-02,Science,26
+2024-11-03,Science,21
+2024-11-04,Science,50
+2024-11-05,Science,34
+2024-11-06,Science,57
+2024-11-07,Science,45
+2024-11-08,Science,46
+2024-11-09,Science,37
+2024-11-10,Science,21
+2024-11-11,Science,43
+2024-11-12,Science,53
+2024-11-13,Science,55
+2024-11-14,Science,51
+2024-11-15,Science,44
+2024-11-16,Science,30
+2024-11-17,Science,26
+2024-11-18,Science,32
+2024-11-19,Science,59
+2024-11-20,Science,50
+2024-11-21,Science,53
+2024-11-22,Science,48
+2024-11-23,Science,39
+2024-11-24,Science,22
+2024-11-25,Science,69
+2024-11-26,Science,79
+2024-11-27,Science,73
+2024-11-28,Science,68
+2024-11-29,Science,50
+2024-11-30,Science,49
+2024-12-01,Science,26
+2024-12-02,Science,52
+2024-12-03,Science,54
+2024-12-04,Science,52
+2024-12-05,Science,65
+2024-12-06,Science,57
+2024-12-07,Science,33
+2024-12-08,Science,25
+2024-12-09,Science,69
+2024-12-10,Science,57
+2024-12-11,Science,70
+2024-12-12,Science,56
+2024-12-13,Science,63
+2024-12-14,Science,47
+2024-12-15,Science,3
+2024-12-16,Science,11
+2024-12-17,Science,8
+2024-12-18,Science,21
+2024-12-19,Science,15
+2024-12-20,Science,15
+2024-12-21,Science,8
+2024-12-22,Science,10
+2024-12-23,Science,11
+2024-12-24,Science,12
+2024-12-25,Science,1
+2024-12-26,Science,16
+2024-12-27,Science,17
+2024-12-28,Science,14
+2024-12-29,Science,11
+2024-12-30,Science,15
+2024-12-31,Science,18
+2025-01-01,Science,18
+2025-01-02,Science,14
+2025-01-03,Science,16
+2025-01-04,Science,19
+2025-01-05,Science,1
+2025-01-06,Science,54
+2025-01-07,Science,53
+2025-01-08,Science,53
+2025-01-09,Science,50
+2025-01-10,Science,55
+2025-01-11,Science,34
+2025-01-12,Science,19
+2025-01-13,Science,43
+2025-01-14,Science,49
+2025-01-15,Science,49
+2025-01-16,Science,42
+2025-01-17,Science,48
+2025-01-18,Science,25
+2025-01-19,Science,22
+2025-01-20,Science,53
+2025-01-21,Science,45
+2025-01-22,Science,45
+2025-01-23,Science,39
+2025-01-24,Science,36
+2025-01-25,Science,31
+2025-01-26,Science,7
+2025-01-27,Science,43
+2025-01-28,Science,54
+2025-01-29,Science,41
+2025-01-30,Science,44
+2025-01-31,Science,33
+2025-02-01,Science,20
+2025-02-02,Science,17
+2025-02-03,Science,47
+2025-02-04,Science,54
+2025-02-05,Science,51
+2025-02-06,Science,34
+2025-02-07,Science,46
+2025-02-08,Science,25
+2025-02-09,Science,11
+2025-02-10,Science,41
+2025-02-11,Science,45
+2025-02-12,Science,33
+2025-02-13,Science,51
+2025-02-14,Science,36
+2025-02-15,Science,32
+2025-02-16,Science,13
+2025-02-17,Science,44
+2025-02-18,Science,52
+2025-02-19,Science,47
+2025-02-20,Science,43
+2025-02-21,Science,43
+2025-02-22,Science,24
+2025-02-23,Science,35
+2025-02-24,Science,58
+2025-02-25,Science,55
+2025-02-26,Science,62
+2025-02-27,Science,59
+2025-02-28,Science,73
+2025-03-01,Science,42
+2025-03-02,Science,16
+2025-03-03,Science,41
+2025-03-04,Science,48
+2025-03-05,Science,55
+2025-03-06,Science,46
+2025-03-07,Science,55
+2025-03-08,Science,28
+2025-03-09,Science,21
+2025-03-10,Science,47
+2025-03-11,Science,60
+2025-03-12,Science,43
+2025-03-13,Science,46
+2025-03-14,Science,6
+2025-03-15,Science,26
+2025-03-16,Science,17
+2025-03-17,Science,62
+2025-03-18,Science,59
+2025-03-19,Science,50
+2025-03-20,Science,41
+2025-03-21,Science,34
+2025-03-22,Science,24
+2025-03-23,Science,11
+2025-03-24,Science,40
+2025-03-25,Science,53
+2025-03-26,Science,54
+2025-03-27,Science,41
+2025-03-28,Science,42
+2025-03-29,Science,19
+2025-03-30,Science,19
+2025-03-31,Science,59
+2025-04-01,Science,56
+2025-04-02,Science,61
+2025-04-03,Science,42
+2025-04-04,Science,53
+2025-04-05,Science,29
+2025-04-06,Science,17
+2025-04-07,Science,48
+2025-04-08,Science,53
+2025-04-09,Science,70
+2025-04-10,Science,53
+2025-04-11,Science,41
+2025-04-12,Science,35
+2025-04-13,Science,22
+2025-04-14,Science,55
+2025-04-15,Science,49
+2025-04-16,Science,42
+2025-04-17,Science,47
+2025-04-18,Science,42
+2025-04-19,Science,24
+2025-04-20,Science,11
+2025-04-21,Science,58
+2025-04-22,Science,48
+2025-04-23,Science,46
+2025-04-24,Science,37
+2025-04-25,Science,42
+2025-04-26,Science,44
+2025-04-27,Science,23
+2025-04-28,Science,65
+2025-04-29,Science,75
+2025-04-30,Science,65
+2025-05-01,Science,69
+2025-05-02,Science,61
+2025-05-03,Science,45
+2025-05-04,Science,23
+2025-05-05,Science,78
+2025-05-06,Science,85
+2025-05-07,Science,66
+2025-05-08,Science,84
+2025-05-09,Science,69
+2025-05-10,Science,51
+2025-05-11,Science,32
+2025-05-12,Science,64
+2025-05-13,Science,72
+2025-05-14,Science,66
+2025-05-15,Science,64
+2025-05-16,Science,46
+2025-05-17,Science,38
+2025-05-18,Science,11
+2025-05-19,Science,16
+2025-05-20,Science,17
+2025-05-21,Science,16
+2025-05-22,Science,16
+2025-05-23,Science,12
+2025-05-24,Science,12
+2025-05-25,Science,7
+2025-05-26,Science,23
+2025-05-27,Science,17
+2025-05-28,Science,20
+2025-05-29,Science,13
+2025-05-30,Science,14
+2025-05-31,Science,16
+2025-06-01,Science,7
+2025-06-02,Science,13
+2025-06-03,Science,11
+2025-06-04,Science,15
+2025-06-05,Science,18
+2025-06-06,Science,10
+2025-06-07,Science,10
+2025-06-08,Science,13
+2025-06-09,Science,17
+2025-06-10,Science,12
+2025-06-11,Science,18
+2025-06-12,Science,15
+2025-06-13,Science,13
+2025-06-14,Science,11
+2025-06-15,Science,5
+2025-06-16,Science,16
+2025-06-17,Science,26
+2025-06-18,Science,16
+2025-06-19,Science,14
+2025-06-20,Science,13
+2025-06-21,Science,15
+2025-06-22,Science,7
+2025-06-23,Science,19
+2025-06-24,Science,18
+2025-06-25,Science,15
+2025-06-26,Science,20
+2025-06-27,Science,16
+2025-06-28,Science,10
+2025-06-29,Science,9
+2025-06-30,Science,18
+2025-07-01,Science,19
+2025-07-02,Science,12
+2025-07-03,Science,19
+2025-07-04,Science,10
+2025-07-05,Science,11
+2025-07-06,Science,10
+2025-07-07,Science,12
+2025-07-08,Science,22
+2025-07-09,Science,19
+2025-07-10,Science,17
+2025-07-11,Science,10
+2025-07-12,Science,10
+2025-07-13,Science,4
+2025-07-14,Science,19
+2025-07-15,Science,23
+2025-07-16,Science,18
+2025-07-17,Science,25
+2025-07-18,Science,16
+2025-07-19,Science,9
+2025-07-20,Science,5
+2025-07-21,Science,53
+2025-07-22,Science,53
+2025-07-23,Science,60
+2025-07-24,Science,53
+2025-07-25,Science,49
+2025-07-26,Science,38
+2025-07-27,Science,22
+2025-07-28,Science,48
+2025-07-29,Science,53
+2025-07-30,Science,51
+2025-07-31,Science,41
+2025-08-01,Science,45
+2025-08-02,Science,34
+2025-08-03,Science,20
+2025-08-04,Science,44
+2025-08-05,Science,57
+2025-08-06,Science,51
+2025-08-07,Science,43
+2025-08-08,Science,26
+2025-08-09,Science,27
+2025-08-10,Science,15
+2025-08-11,Science,46
+2025-08-12,Science,38
+2025-08-13,Science,57
+2025-08-14,Science,55
+2025-08-15,Science,7
+2025-08-16,Science,37
+2025-08-17,Science,16
+2025-08-18,Science,48
+2025-08-19,Science,58
+2025-08-20,Science,49
+2025-08-21,Science,42
+2025-08-22,Science,51
+2025-08-23,Science,35
+2025-08-24,Science,17
+2025-08-25,Science,45
+2025-08-26,Science,50
+2025-08-27,Science,53
+2025-08-28,Science,50
+2025-08-29,Science,36
+2025-08-30,Science,28
+2025-08-31,Science,14
+2025-09-01,Science,46
+2025-09-02,Science,52
+2025-09-03,Science,49
+2025-09-04,Science,52
+2025-09-05,Science,29
+2025-09-06,Science,25
+2025-09-07,Science,14
+2025-09-08,Science,49
+2025-09-09,Science,47
+2025-09-10,Science,58
+2025-09-11,Science,46
+2025-09-12,Science,44
+2025-09-13,Science,34
+2025-09-14,Science,22
+2025-09-15,Science,52
+2025-09-16,Science,45
+2025-09-17,Science,63
+2025-09-18,Science,47
+2025-09-19,Science,53
+2025-09-20,Science,29
+2025-09-21,Science,29
+2025-09-22,Science,67
+2025-09-23,Science,71
+2025-09-24,Science,62
+2025-09-25,Science,62
+2025-09-26,Science,58
+2025-09-27,Science,42
+2025-09-28,Science,24
+2025-09-29,Science,50
+2025-09-30,Science,42
+2025-10-01,Science,52
+2025-10-02,Science,12
+2025-10-03,Science,54
+2025-10-04,Science,21
+2025-10-05,Science,9
+2025-10-06,Science,46
+2025-10-07,Science,50
+2025-10-08,Science,59
+2025-10-09,Science,50
+2025-10-10,Science,46
+2025-10-11,Science,37
+2025-10-12,Science,23
+2025-10-13,Science,43
+2025-10-14,Science,44
+2025-10-15,Science,45
+2025-10-16,Science,35
+2025-10-17,Science,42
+2025-10-18,Science,38
+2025-10-19,Science,19
+2025-10-20,Science,8
+2025-10-21,Science,60
+2025-10-22,Science,43
+2025-10-23,Science,55
+2025-10-24,Science,47
+2025-10-25,Science,26
+2025-10-26,Science,17
+2025-10-27,Science,45
+2025-10-28,Science,48
+2025-10-29,Science,57
+2025-10-30,Science,46
+2025-10-31,Science,34
+2025-11-01,Science,29
+2025-11-02,Science,29
+2025-11-03,Science,46
+2025-11-04,Science,48
+2025-11-05,Science,46
+2025-11-06,Science,48
+2025-11-07,Science,36
+2025-11-08,Science,29
+2025-11-09,Science,19
+2025-11-10,Science,47
+2025-11-11,Science,45
+2025-11-12,Science,55
+2025-11-13,Science,44
+2025-11-14,Science,55
+2025-11-15,Science,25
+2025-11-16,Science,19
+2025-11-17,Science,49
+2025-11-18,Science,54
+2025-11-19,Science,49
+2025-11-20,Science,61
+2025-11-21,Science,47
+2025-11-22,Science,33
+2025-11-23,Science,28
+2025-11-24,Science,49
+2025-11-25,Science,61
+2025-11-26,Science,70
+2025-11-27,Science,67
+2025-11-28,Science,56
+2025-11-29,Science,54
+2025-11-30,Science,27
+2025-12-01,Science,50
+2025-12-02,Science,74
+2025-12-03,Science,64
+2025-12-04,Science,66
+2025-12-05,Science,52
+2025-12-06,Science,43
+2025-12-07,Science,19
+2025-12-08,Science,68
+2025-12-09,Science,76
+2025-12-10,Science,71
+2025-12-11,Science,71
+2025-12-12,Science,60
+2025-12-13,Science,37
+2025-12-14,Science,7
+2025-12-15,Science,15
+2025-12-16,Science,15
+2025-12-17,Science,12
+2025-12-18,Science,25
+2025-12-19,Science,23
+2025-12-20,Science,11
+2025-12-21,Science,12
+2025-12-22,Science,12
+2025-12-23,Science,10
+2025-12-24,Science,18
+2025-12-25,Science,2
+2025-12-26,Science,10
+2025-12-27,Science,17
+2025-12-28,Science,3
+2025-12-29,Science,12
+2025-12-30,Science,17
+2025-12-31,Science,24
+2026-01-01,Science,16
+2026-01-02,Science,10
+2026-01-03,Science,6
+2026-01-04,Science,3
+2026-01-05,Science,45
+2026-01-06,Science,48
+2026-01-07,Science,47
+2026-01-08,Science,59
+2026-01-09,Science,34
+2026-01-10,Science,26
+2026-01-11,Science,24
+2026-01-12,Science,54
+2026-01-13,Science,42
+2026-01-14,Science,48
+2026-01-15,Science,51
+2026-01-16,Science,54
+2026-01-17,Science,33
+2026-01-18,Science,21
+2026-01-19,Science,49
+2026-01-20,Science,60
+2026-01-21,Science,51
+2026-01-22,Science,43
+2026-01-23,Science,34
+2026-01-24,Science,33
+2026-01-25,Science,15
+2026-01-26,Science,12
+2026-01-27,Science,54
+2026-01-28,Science,48
+2026-01-29,Science,43
+2026-01-30,Science,45
+2026-01-31,Science,25
+2026-02-01,Science,25
+2026-02-02,Science,44
+2026-02-03,Science,44
+2026-02-04,Science,46
+2026-02-05,Science,58
+2026-02-06,Science,45
+2026-02-07,Science,31
+2026-02-08,Science,21
+2026-02-09,Science,47
+2026-02-10,Science,42
+2026-02-11,Science,42
+2026-02-12,Science,42
+2026-02-13,Science,36
+2026-02-14,Science,38
+2026-02-15,Science,20
+2026-02-16,Science,35
+2026-02-17,Science,40
+2026-02-18,Science,51
+2026-02-19,Science,50
+2026-02-20,Science,47
+2026-02-21,Science,37
+2026-02-22,Science,23
+2026-02-23,Science,68
+2026-02-24,Science,66
+2026-02-25,Science,71
+2026-02-26,Science,73
+2026-02-27,Science,59
+2026-02-28,Science,38
+2026-03-01,Science,19
+2026-03-02,Science,42
+2026-03-03,Science,50
+2026-03-04,Science,17
+2026-03-05,Science,62
+2026-03-06,Science,46
+2026-03-07,Science,32
+2026-03-08,Science,14
+2026-03-09,Science,41
+2026-03-10,Science,52
+2026-03-11,Science,45
+2026-03-12,Science,51
+2026-03-13,Science,45
+2026-03-14,Science,23
+2026-03-15,Science,21
+2026-03-16,Science,49
+2026-03-17,Science,49
+2026-03-18,Science,46
+2026-03-19,Science,42
+2026-03-20,Science,43
+2026-03-21,Science,35
+2026-03-22,Science,17
+2026-03-23,Science,45
+2026-03-24,Science,54
+2026-03-25,Science,44
+2026-03-26,Science,45
+2026-03-27,Science,36
+2026-03-28,Science,33
+2026-03-29,Science,26
+2026-03-30,Science,48
+2026-03-31,Science,59
+2026-04-01,Science,52
+2026-04-02,Science,57
+2026-04-03,Science,53
+2026-04-04,Science,29
+2026-04-05,Science,20
+2026-04-06,Science,47
+2026-04-07,Science,54
+2026-04-08,Science,39
+2026-04-09,Science,55
+2026-04-10,Science,44
+2026-04-11,Science,34
+2026-04-12,Science,17
+2026-04-13,Science,55
+2026-04-14,Science,57
+2026-04-15,Science,46
+2026-04-16,Science,46
+2026-04-17,Science,37
+2026-04-18,Science,32
+2026-04-19,Science,14
+2026-04-20,Science,48
+2026-04-21,Science,63
+2026-04-22,Science,50
+2026-04-23,Science,49
+2026-04-24,Science,47
+2026-04-25,Science,28
+2026-04-26,Science,32
+2026-04-27,Science,77
+2026-04-28,Science,73
+2026-04-29,Science,71
+2026-04-30,Science,70
+2026-05-01,Science,47
+2026-05-02,Science,46
+2026-05-03,Science,27
+2026-05-04,Science,70
+2026-05-05,Science,67
+2026-05-06,Science,63
+2026-05-07,Science,68
+2026-05-08,Science,66
+2026-05-09,Science,37
+2026-05-10,Science,25
+2026-05-11,Science,82
+2026-05-12,Science,58
+2026-05-13,Science,75
+2026-05-14,Science,73
+2026-05-15,Science,58
+2026-05-16,Science,42
+2026-05-17,Science,6
+2026-05-18,Science,12
+2026-05-19,Science,13
+2026-05-20,Science,16
+2026-05-21,Science,7
+2026-05-22,Science,19
+2026-05-23,Science,4
+2026-05-24,Science,10
+2026-05-25,Science,24
+2026-05-26,Science,17
+2026-05-27,Science,20
+2026-05-28,Science,16
+2026-05-29,Science,12
+2026-05-30,Science,13
+2026-05-31,Science,9
+2026-06-01,Science,18
+2026-06-02,Science,11
+2026-06-03,Science,19
+2026-06-04,Science,21
+2026-06-05,Science,13
+2026-06-06,Science,13
+2026-06-07,Science,7
+2026-06-08,Science,19
+2026-06-09,Science,13
+2026-06-10,Science,8
+2026-06-11,Science,16
+2026-06-12,Science,10
+2026-06-13,Science,14
+2026-06-14,Science,6
+2026-06-15,Science,11
+2026-06-16,Science,20
+2026-06-17,Science,13
+2026-06-18,Science,14
+2026-06-19,Science,11
+2026-06-20,Science,2
+2026-06-21,Science,6
+2026-06-22,Science,13
+2026-06-23,Science,16
+2026-06-24,Science,15
+2026-06-25,Science,12
+2026-06-26,Science,10
+2026-06-27,Science,3
+2026-06-28,Science,5
+2026-06-29,Science,17
+2026-06-30,Science,14
+2024-07-01,Literature,7
+2024-07-02,Literature,13
+2024-07-03,Literature,9
+2024-07-04,Literature,9
+2024-07-05,Literature,9
+2024-07-06,Literature,9
+2024-07-07,Literature,6
+2024-07-08,Literature,7
+2024-07-09,Literature,10
+2024-07-10,Literature,13
+2024-07-11,Literature,5
+2024-07-12,Literature,10
+2024-07-13,Literature,7
+2024-07-14,Literature,4
+2024-07-15,Literature,9
+2024-07-16,Literature,9
+2024-07-17,Literature,6
+2024-07-18,Literature,7
+2024-07-19,Literature,12
+2024-07-20,Literature,3
+2024-07-21,Literature,10
+2024-07-22,Literature,21
+2024-07-23,Literature,25
+2024-07-24,Literature,25
+2024-07-25,Literature,21
+2024-07-26,Literature,29
+2024-07-27,Literature,13
+2024-07-28,Literature,4
+2024-07-29,Literature,23
+2024-07-30,Literature,32
+2024-07-31,Literature,30
+2024-08-01,Literature,19
+2024-08-02,Literature,21
+2024-08-03,Literature,13
+2024-08-04,Literature,12
+2024-08-05,Literature,24
+2024-08-06,Literature,24
+2024-08-07,Literature,28
+2024-08-08,Literature,23
+2024-08-09,Literature,24
+2024-08-10,Literature,18
+2024-08-11,Literature,7
+2024-08-12,Literature,23
+2024-08-13,Literature,28
+2024-08-14,Literature,16
+2024-08-15,Literature,6
+2024-08-16,Literature,16
+2024-08-17,Literature,11
+2024-08-18,Literature,8
+2024-08-19,Literature,24
+2024-08-20,Literature,26
+2024-08-21,Literature,19
+2024-08-22,Literature,25
+2024-08-23,Literature,17
+2024-08-24,Literature,19
+2024-08-25,Literature,15
+2024-08-26,Literature,24
+2024-08-27,Literature,17
+2024-08-28,Literature,26
+2024-08-29,Literature,29
+2024-08-30,Literature,20
+2024-08-31,Literature,10
+2024-09-01,Literature,10
+2024-09-02,Literature,19
+2024-09-03,Literature,25
+2024-09-04,Literature,30
+2024-09-05,Literature,23
+2024-09-06,Literature,25
+2024-09-07,Literature,14
+2024-09-08,Literature,6
+2024-09-09,Literature,20
+2024-09-10,Literature,18
+2024-09-11,Literature,29
+2024-09-12,Literature,25
+2024-09-13,Literature,14
+2024-09-14,Literature,22
+2024-09-15,Literature,11
+2024-09-16,Literature,16
+2024-09-17,Literature,21
+2024-09-18,Literature,34
+2024-09-19,Literature,37
+2024-09-20,Literature,23
+2024-09-21,Literature,17
+2024-09-22,Literature,16
+2024-09-23,Literature,28
+2024-09-24,Literature,34
+2024-09-25,Literature,42
+2024-09-26,Literature,36
+2024-09-27,Literature,23
+2024-09-28,Literature,27
+2024-09-29,Literature,10
+2024-09-30,Literature,19
+2024-10-01,Literature,30
+2024-10-02,Literature,6
+2024-10-03,Literature,14
+2024-10-04,Literature,20
+2024-10-05,Literature,17
+2024-10-06,Literature,12
+2024-10-07,Literature,18
+2024-10-08,Literature,27
+2024-10-09,Literature,27
+2024-10-10,Literature,24
+2024-10-11,Literature,17
+2024-10-12,Literature,1
+2024-10-13,Literature,12
+2024-10-14,Literature,25
+2024-10-15,Literature,19
+2024-10-16,Literature,29
+2024-10-17,Literature,21
+2024-10-18,Literature,27
+2024-10-19,Literature,6
+2024-10-20,Literature,12
+2024-10-21,Literature,28
+2024-10-22,Literature,27
+2024-10-23,Literature,31
+2024-10-24,Literature,27
+2024-10-25,Literature,21
+2024-10-26,Literature,9
+2024-10-27,Literature,10
+2024-10-28,Literature,26
+2024-10-29,Literature,25
+2024-10-30,Literature,24
+2024-10-31,Literature,30
+2024-11-01,Literature,2
+2024-11-02,Literature,14
+2024-11-03,Literature,9
+2024-11-04,Literature,22
+2024-11-05,Literature,27
+2024-11-06,Literature,18
+2024-11-07,Literature,25
+2024-11-08,Literature,21
+2024-11-09,Literature,19
+2024-11-10,Literature,7
+2024-11-11,Literature,18
+2024-11-12,Literature,29
+2024-11-13,Literature,29
+2024-11-14,Literature,23
+2024-11-15,Literature,21
+2024-11-16,Literature,15
+2024-11-17,Literature,15
+2024-11-18,Literature,29
+2024-11-19,Literature,29
+2024-11-20,Literature,20
+2024-11-21,Literature,33
+2024-11-22,Literature,31
+2024-11-23,Literature,25
+2024-11-24,Literature,15
+2024-11-25,Literature,23
+2024-11-26,Literature,37
+2024-11-27,Literature,34
+2024-11-28,Literature,39
+2024-11-29,Literature,27
+2024-11-30,Literature,20
+2024-12-01,Literature,9
+2024-12-02,Literature,32
+2024-12-03,Literature,31
+2024-12-04,Literature,39
+2024-12-05,Literature,32
+2024-12-06,Literature,28
+2024-12-07,Literature,20
+2024-12-08,Literature,21
+2024-12-09,Literature,27
+2024-12-10,Literature,33
+2024-12-11,Literature,47
+2024-12-12,Literature,31
+2024-12-13,Literature,28
+2024-12-14,Literature,16
+2024-12-15,Literature,6
+2024-12-16,Literature,11
+2024-12-17,Literature,11
+2024-12-18,Literature,14
+2024-12-19,Literature,7
+2024-12-20,Literature,11
+2024-12-21,Literature,8
+2024-12-22,Literature,2
+2024-12-23,Literature,7
+2024-12-24,Literature,13
+2024-12-25,Literature,1
+2024-12-26,Literature,6
+2024-12-27,Literature,7
+2024-12-28,Literature,5
+2024-12-29,Literature,6
+2024-12-30,Literature,5
+2024-12-31,Literature,5
+2025-01-01,Literature,9
+2025-01-02,Literature,5
+2025-01-03,Literature,10
+2025-01-04,Literature,8
+2025-01-05,Literature,3
+2025-01-06,Literature,16
+2025-01-07,Literature,23
+2025-01-08,Literature,23
+2025-01-09,Literature,26
+2025-01-10,Literature,28
+2025-01-11,Literature,16
+2025-01-12,Literature,9
+2025-01-13,Literature,21
+2025-01-14,Literature,28
+2025-01-15,Literature,33
+2025-01-16,Literature,32
+2025-01-17,Literature,23
+2025-01-18,Literature,22
+2025-01-19,Literature,8
+2025-01-20,Literature,30
+2025-01-21,Literature,21
+2025-01-22,Literature,28
+2025-01-23,Literature,32
+2025-01-24,Literature,21
+2025-01-25,Literature,13
+2025-01-26,Literature,1
+2025-01-27,Literature,23
+2025-01-28,Literature,24
+2025-01-29,Literature,27
+2025-01-30,Literature,25
+2025-01-31,Literature,14
+2025-02-01,Literature,17
+2025-02-02,Literature,6
+2025-02-03,Literature,16
+2025-02-04,Literature,32
+2025-02-05,Literature,20
+2025-02-06,Literature,23
+2025-02-07,Literature,22
+2025-02-08,Literature,23
+2025-02-09,Literature,8
+2025-02-10,Literature,21
+2025-02-11,Literature,19
+2025-02-12,Literature,31
+2025-02-13,Literature,26
+2025-02-14,Literature,24
+2025-02-15,Literature,11
+2025-02-16,Literature,9
+2025-02-17,Literature,21
+2025-02-18,Literature,25
+2025-02-19,Literature,36
+2025-02-20,Literature,30
+2025-02-21,Literature,29
+2025-02-22,Literature,24
+2025-02-23,Literature,10
+2025-02-24,Literature,46
+2025-02-25,Literature,34
+2025-02-26,Literature,30
+2025-02-27,Literature,31
+2025-02-28,Literature,27
+2025-03-01,Literature,20
+2025-03-02,Literature,14
+2025-03-03,Literature,26
+2025-03-04,Literature,29
+2025-03-05,Literature,20
+2025-03-06,Literature,31
+2025-03-07,Literature,20
+2025-03-08,Literature,12
+2025-03-09,Literature,5
+2025-03-10,Literature,18
+2025-03-11,Literature,24
+2025-03-12,Literature,13
+2025-03-13,Literature,21
+2025-03-14,Literature,2
+2025-03-15,Literature,13
+2025-03-16,Literature,8
+2025-03-17,Literature,25
+2025-03-18,Literature,25
+2025-03-19,Literature,27
+2025-03-20,Literature,19
+2025-03-21,Literature,18
+2025-03-22,Literature,20
+2025-03-23,Literature,14
+2025-03-24,Literature,17
+2025-03-25,Literature,24
+2025-03-26,Literature,20
+2025-03-27,Literature,27
+2025-03-28,Literature,27
+2025-03-29,Literature,15
+2025-03-30,Literature,11
+2025-03-31,Literature,24
+2025-04-01,Literature,27
+2025-04-02,Literature,25
+2025-04-03,Literature,22
+2025-04-04,Literature,20
+2025-04-05,Literature,18
+2025-04-06,Literature,11
+2025-04-07,Literature,24
+2025-04-08,Literature,16
+2025-04-09,Literature,26
+2025-04-10,Literature,27
+2025-04-11,Literature,32
+2025-04-12,Literature,19
+2025-04-13,Literature,10
+2025-04-14,Literature,25
+2025-04-15,Literature,33
+2025-04-16,Literature,17
+2025-04-17,Literature,19
+2025-04-18,Literature,19
+2025-04-19,Literature,15
+2025-04-20,Literature,6
+2025-04-21,Literature,28
+2025-04-22,Literature,31
+2025-04-23,Literature,21
+2025-04-24,Literature,29
+2025-04-25,Literature,23
+2025-04-26,Literature,13
+2025-04-27,Literature,14
+2025-04-28,Literature,32
+2025-04-29,Literature,26
+2025-04-30,Literature,41
+2025-05-01,Literature,37
+2025-05-02,Literature,30
+2025-05-03,Literature,17
+2025-05-04,Literature,9
+2025-05-05,Literature,42
+2025-05-06,Literature,40
+2025-05-07,Literature,30
+2025-05-08,Literature,31
+2025-05-09,Literature,30
+2025-05-10,Literature,22
+2025-05-11,Literature,18
+2025-05-12,Literature,34
+2025-05-13,Literature,26
+2025-05-14,Literature,33
+2025-05-15,Literature,20
+2025-05-16,Literature,32
+2025-05-17,Literature,12
+2025-05-18,Literature,3
+2025-05-19,Literature,12
+2025-05-20,Literature,16
+2025-05-21,Literature,15
+2025-05-22,Literature,10
+2025-05-23,Literature,9
+2025-05-24,Literature,5
+2025-05-25,Literature,5
+2025-05-26,Literature,8
+2025-05-27,Literature,8
+2025-05-28,Literature,15
+2025-05-29,Literature,6
+2025-05-30,Literature,9
+2025-05-31,Literature,7
+2025-06-01,Literature,1
+2025-06-02,Literature,13
+2025-06-03,Literature,13
+2025-06-04,Literature,7
+2025-06-05,Literature,9
+2025-06-06,Literature,9
+2025-06-07,Literature,5
+2025-06-08,Literature,6
+2025-06-09,Literature,15
+2025-06-10,Literature,12
+2025-06-11,Literature,14
+2025-06-12,Literature,12
+2025-06-13,Literature,7
+2025-06-14,Literature,5
+2025-06-15,Literature,4
+2025-06-16,Literature,6
+2025-06-17,Literature,13
+2025-06-18,Literature,11
+2025-06-19,Literature,9
+2025-06-20,Literature,11
+2025-06-21,Literature,5
+2025-06-22,Literature,1
+2025-06-23,Literature,5
+2025-06-24,Literature,5
+2025-06-25,Literature,1
+2025-06-26,Literature,7
+2025-06-27,Literature,2
+2025-06-28,Literature,1
+2025-06-29,Literature,4
+2025-06-30,Literature,13
+2025-07-01,Literature,10
+2025-07-02,Literature,6
+2025-07-03,Literature,9
+2025-07-04,Literature,10
+2025-07-05,Literature,5
+2025-07-06,Literature,7
+2025-07-07,Literature,10
+2025-07-08,Literature,8
+2025-07-09,Literature,11
+2025-07-10,Literature,9
+2025-07-11,Literature,6
+2025-07-12,Literature,7
+2025-07-13,Literature,1
+2025-07-14,Literature,10
+2025-07-15,Literature,7
+2025-07-16,Literature,7
+2025-07-17,Literature,3
+2025-07-18,Literature,3
+2025-07-19,Literature,3
+2025-07-20,Literature,2
+2025-07-21,Literature,21
+2025-07-22,Literature,18
+2025-07-23,Literature,25
+2025-07-24,Literature,26
+2025-07-25,Literature,20
+2025-07-26,Literature,17
+2025-07-27,Literature,8
+2025-07-28,Literature,19
+2025-07-29,Literature,30
+2025-07-30,Literature,23
+2025-07-31,Literature,27
+2025-08-01,Literature,22
+2025-08-02,Literature,18
+2025-08-03,Literature,12
+2025-08-04,Literature,32
+2025-08-05,Literature,26
+2025-08-06,Literature,33
+2025-08-07,Literature,19
+2025-08-08,Literature,20
+2025-08-09,Literature,25
+2025-08-10,Literature,12
+2025-08-11,Literature,25
+2025-08-12,Literature,19
+2025-08-13,Literature,21
+2025-08-14,Literature,30
+2025-08-15,Literature,3
+2025-08-16,Literature,13
+2025-08-17,Literature,9
+2025-08-18,Literature,19
+2025-08-19,Literature,24
+2025-08-20,Literature,26
+2025-08-21,Literature,23
+2025-08-22,Literature,26
+2025-08-23,Literature,14
+2025-08-24,Literature,8
+2025-08-25,Literature,23
+2025-08-26,Literature,25
+2025-08-27,Literature,29
+2025-08-28,Literature,26
+2025-08-29,Literature,25
+2025-08-30,Literature,11
+2025-08-31,Literature,15
+2025-09-01,Literature,25
+2025-09-02,Literature,25
+2025-09-03,Literature,25
+2025-09-04,Literature,17
+2025-09-05,Literature,26
+2025-09-06,Literature,22
+2025-09-07,Literature,7
+2025-09-08,Literature,26
+2025-09-09,Literature,24
+2025-09-10,Literature,28
+2025-09-11,Literature,19
+2025-09-12,Literature,24
+2025-09-13,Literature,14
+2025-09-14,Literature,13
+2025-09-15,Literature,27
+2025-09-16,Literature,25
+2025-09-17,Literature,27
+2025-09-18,Literature,30
+2025-09-19,Literature,22
+2025-09-20,Literature,19
+2025-09-21,Literature,18
+2025-09-22,Literature,26
+2025-09-23,Literature,37
+2025-09-24,Literature,38
+2025-09-25,Literature,36
+2025-09-26,Literature,29
+2025-09-27,Literature,23
+2025-09-28,Literature,7
+2025-09-29,Literature,17
+2025-09-30,Literature,22
+2025-10-01,Literature,17
+2025-10-02,Literature,3
+2025-10-03,Literature,20
+2025-10-04,Literature,12
+2025-10-05,Literature,10
+2025-10-06,Literature,29
+2025-10-07,Literature,25
+2025-10-08,Literature,24
+2025-10-09,Literature,25
+2025-10-10,Literature,24
+2025-10-11,Literature,11
+2025-10-12,Literature,10
+2025-10-13,Literature,26
+2025-10-14,Literature,25
+2025-10-15,Literature,30
+2025-10-16,Literature,21
+2025-10-17,Literature,15
+2025-10-18,Literature,19
+2025-10-19,Literature,9
+2025-10-20,Literature,6
+2025-10-21,Literature,26
+2025-10-22,Literature,33
+2025-10-23,Literature,19
+2025-10-24,Literature,19
+2025-10-25,Literature,18
+2025-10-26,Literature,7
+2025-10-27,Literature,24
+2025-10-28,Literature,29
+2025-10-29,Literature,25
+2025-10-30,Literature,31
+2025-10-31,Literature,33
+2025-11-01,Literature,9
+2025-11-02,Literature,16
+2025-11-03,Literature,22
+2025-11-04,Literature,27
+2025-11-05,Literature,27
+2025-11-06,Literature,23
+2025-11-07,Literature,21
+2025-11-08,Literature,18
+2025-11-09,Literature,9
+2025-11-10,Literature,12
+2025-11-11,Literature,22
+2025-11-12,Literature,25
+2025-11-13,Literature,13
+2025-11-14,Literature,19
+2025-11-15,Literature,11
+2025-11-16,Literature,9
+2025-11-17,Literature,18
+2025-11-18,Literature,33
+2025-11-19,Literature,21
+2025-11-20,Literature,25
+2025-11-21,Literature,27
+2025-11-22,Literature,14
+2025-11-23,Literature,11
+2025-11-24,Literature,37
+2025-11-25,Literature,34
+2025-11-26,Literature,36
+2025-11-27,Literature,42
+2025-11-28,Literature,38
+2025-11-29,Literature,19
+2025-11-30,Literature,14
+2025-12-01,Literature,28
+2025-12-02,Literature,29
+2025-12-03,Literature,42
+2025-12-04,Literature,36
+2025-12-05,Literature,31
+2025-12-06,Literature,28
+2025-12-07,Literature,17
+2025-12-08,Literature,45
+2025-12-09,Literature,34
+2025-12-10,Literature,30
+2025-12-11,Literature,32
+2025-12-12,Literature,33
+2025-12-13,Literature,18
+2025-12-14,Literature,7
+2025-12-15,Literature,5
+2025-12-16,Literature,11
+2025-12-17,Literature,7
+2025-12-18,Literature,9
+2025-12-19,Literature,8
+2025-12-20,Literature,7
+2025-12-21,Literature,2
+2025-12-22,Literature,6
+2025-12-23,Literature,12
+2025-12-24,Literature,11
+2025-12-25,Literature,2
+2025-12-26,Literature,13
+2025-12-27,Literature,2
+2025-12-28,Literature,3
+2025-12-29,Literature,10
+2025-12-30,Literature,12
+2025-12-31,Literature,11
+2026-01-01,Literature,9
+2026-01-02,Literature,7
+2026-01-03,Literature,3
+2026-01-04,Literature,4
+2026-01-05,Literature,18
+2026-01-06,Literature,29
+2026-01-07,Literature,29
+2026-01-08,Literature,31
+2026-01-09,Literature,23
+2026-01-10,Literature,19
+2026-01-11,Literature,11
+2026-01-12,Literature,12
+2026-01-13,Literature,33
+2026-01-14,Literature,27
+2026-01-15,Literature,26
+2026-01-16,Literature,23
+2026-01-17,Literature,16
+2026-01-18,Literature,9
+2026-01-19,Literature,15
+2026-01-20,Literature,29
+2026-01-21,Literature,29
+2026-01-22,Literature,22
+2026-01-23,Literature,15
+2026-01-24,Literature,14
+2026-01-25,Literature,8
+2026-01-26,Literature,6
+2026-01-27,Literature,21
+2026-01-28,Literature,30
+2026-01-29,Literature,29
+2026-01-30,Literature,27
+2026-01-31,Literature,24
+2026-02-01,Literature,8
+2026-02-02,Literature,21
+2026-02-03,Literature,22
+2026-02-04,Literature,17
+2026-02-05,Literature,31
+2026-02-06,Literature,27
+2026-02-07,Literature,8
+2026-02-08,Literature,13
+2026-02-09,Literature,20
+2026-02-10,Literature,23
+2026-02-11,Literature,27
+2026-02-12,Literature,25
+2026-02-13,Literature,16
+2026-02-14,Literature,10
+2026-02-15,Literature,10
+2026-02-16,Literature,16
+2026-02-17,Literature,14
+2026-02-18,Literature,16
+2026-02-19,Literature,24
+2026-02-20,Literature,22
+2026-02-21,Literature,23
+2026-02-22,Literature,14
+2026-02-23,Literature,34
+2026-02-24,Literature,34
+2026-02-25,Literature,31
+2026-02-26,Literature,31
+2026-02-27,Literature,23
+2026-02-28,Literature,23
+2026-03-01,Literature,10
+2026-03-02,Literature,26
+2026-03-03,Literature,29
+2026-03-04,Literature,7
+2026-03-05,Literature,24
+2026-03-06,Literature,23
+2026-03-07,Literature,11
+2026-03-08,Literature,11
+2026-03-09,Literature,29
+2026-03-10,Literature,18
+2026-03-11,Literature,20
+2026-03-12,Literature,22
+2026-03-13,Literature,18
+2026-03-14,Literature,10
+2026-03-15,Literature,10
+2026-03-16,Literature,24
+2026-03-17,Literature,29
+2026-03-18,Literature,28
+2026-03-19,Literature,23
+2026-03-20,Literature,25
+2026-03-21,Literature,14
+2026-03-22,Literature,6
+2026-03-23,Literature,22
+2026-03-24,Literature,32
+2026-03-25,Literature,21
+2026-03-26,Literature,32
+2026-03-27,Literature,30
+2026-03-28,Literature,19
+2026-03-29,Literature,11
+2026-03-30,Literature,26
+2026-03-31,Literature,30
+2026-04-01,Literature,26
+2026-04-02,Literature,17
+2026-04-03,Literature,15
+2026-04-04,Literature,12
+2026-04-05,Literature,12
+2026-04-06,Literature,33
+2026-04-07,Literature,31
+2026-04-08,Literature,23
+2026-04-09,Literature,22
+2026-04-10,Literature,10
+2026-04-11,Literature,23
+2026-04-12,Literature,6
+2026-04-13,Literature,20
+2026-04-14,Literature,20
+2026-04-15,Literature,25
+2026-04-16,Literature,24
+2026-04-17,Literature,26
+2026-04-18,Literature,11
+2026-04-19,Literature,11
+2026-04-20,Literature,25
+2026-04-21,Literature,27
+2026-04-22,Literature,26
+2026-04-23,Literature,41
+2026-04-24,Literature,20
+2026-04-25,Literature,23
+2026-04-26,Literature,11
+2026-04-27,Literature,32
+2026-04-28,Literature,36
+2026-04-29,Literature,33
+2026-04-30,Literature,26
+2026-05-01,Literature,30
+2026-05-02,Literature,12
+2026-05-03,Literature,14
+2026-05-04,Literature,38
+2026-05-05,Literature,41
+2026-05-06,Literature,42
+2026-05-07,Literature,33
+2026-05-08,Literature,22
+2026-05-09,Literature,20
+2026-05-10,Literature,17
+2026-05-11,Literature,28
+2026-05-12,Literature,31
+2026-05-13,Literature,35
+2026-05-14,Literature,33
+2026-05-15,Literature,37
+2026-05-16,Literature,17
+2026-05-17,Literature,2
+2026-05-18,Literature,7
+2026-05-19,Literature,8
+2026-05-20,Literature,8
+2026-05-21,Literature,5
+2026-05-22,Literature,7
+2026-05-23,Literature,6
+2026-05-24,Literature,4
+2026-05-25,Literature,10
+2026-05-26,Literature,11
+2026-05-27,Literature,11
+2026-05-28,Literature,6
+2026-05-29,Literature,5
+2026-05-30,Literature,4
+2026-05-31,Literature,3
+2026-06-01,Literature,8
+2026-06-02,Literature,2
+2026-06-03,Literature,9
+2026-06-04,Literature,9
+2026-06-05,Literature,9
+2026-06-06,Literature,3
+2026-06-07,Literature,3
+2026-06-08,Literature,6
+2026-06-09,Literature,10
+2026-06-10,Literature,9
+2026-06-11,Literature,5
+2026-06-12,Literature,4
+2026-06-13,Literature,3
+2026-06-14,Literature,1
+2026-06-15,Literature,6
+2026-06-16,Literature,5
+2026-06-17,Literature,5
+2026-06-18,Literature,16
+2026-06-19,Literature,6
+2026-06-20,Literature,5
+2026-06-21,Literature,3
+2026-06-22,Literature,9
+2026-06-23,Literature,8
+2026-06-24,Literature,6
+2026-06-25,Literature,5
+2026-06-26,Literature,7
+2026-06-27,Literature,8
+2026-06-28,Literature,4
+2026-06-29,Literature,6
+2026-06-30,Literature,9
+2024-07-01,Competitive Exams,18
+2024-07-02,Competitive Exams,16
+2024-07-03,Competitive Exams,22
+2024-07-04,Competitive Exams,12
+2024-07-05,Competitive Exams,17
+2024-07-06,Competitive Exams,9
+2024-07-07,Competitive Exams,5
+2024-07-08,Competitive Exams,11
+2024-07-09,Competitive Exams,20
+2024-07-10,Competitive Exams,17
+2024-07-11,Competitive Exams,14
+2024-07-12,Competitive Exams,19
+2024-07-13,Competitive Exams,17
+2024-07-14,Competitive Exams,6
+2024-07-15,Competitive Exams,11
+2024-07-16,Competitive Exams,14
+2024-07-17,Competitive Exams,19
+2024-07-18,Competitive Exams,16
+2024-07-19,Competitive Exams,11
+2024-07-20,Competitive Exams,12
+2024-07-21,Competitive Exams,17
+2024-07-22,Competitive Exams,31
+2024-07-23,Competitive Exams,48
+2024-07-24,Competitive Exams,45
+2024-07-25,Competitive Exams,46
+2024-07-26,Competitive Exams,40
+2024-07-27,Competitive Exams,29
+2024-07-28,Competitive Exams,21
+2024-07-29,Competitive Exams,47
+2024-07-30,Competitive Exams,48
+2024-07-31,Competitive Exams,46
+2024-08-01,Competitive Exams,41
+2024-08-02,Competitive Exams,34
+2024-08-03,Competitive Exams,39
+2024-08-04,Competitive Exams,17
+2024-08-05,Competitive Exams,43
+2024-08-06,Competitive Exams,42
+2024-08-07,Competitive Exams,50
+2024-08-08,Competitive Exams,37
+2024-08-09,Competitive Exams,33
+2024-08-10,Competitive Exams,33
+2024-08-11,Competitive Exams,24
+2024-08-12,Competitive Exams,36
+2024-08-13,Competitive Exams,46
+2024-08-14,Competitive Exams,50
+2024-08-15,Competitive Exams,12
+2024-08-16,Competitive Exams,40
+2024-08-17,Competitive Exams,26
+2024-08-18,Competitive Exams,15
+2024-08-19,Competitive Exams,40
+2024-08-20,Competitive Exams,47
+2024-08-21,Competitive Exams,35
+2024-08-22,Competitive Exams,39
+2024-08-23,Competitive Exams,42
+2024-08-24,Competitive Exams,25
+2024-08-25,Competitive Exams,16
+2024-08-26,Competitive Exams,43
+2024-08-27,Competitive Exams,43
+2024-08-28,Competitive Exams,42
+2024-08-29,Competitive Exams,50
+2024-08-30,Competitive Exams,33
+2024-08-31,Competitive Exams,33
+2024-09-01,Competitive Exams,23
+2024-09-02,Competitive Exams,40
+2024-09-03,Competitive Exams,45
+2024-09-04,Competitive Exams,50
+2024-09-05,Competitive Exams,54
+2024-09-06,Competitive Exams,45
+2024-09-07,Competitive Exams,29
+2024-09-08,Competitive Exams,20
+2024-09-09,Competitive Exams,27
+2024-09-10,Competitive Exams,42
+2024-09-11,Competitive Exams,48
+2024-09-12,Competitive Exams,36
+2024-09-13,Competitive Exams,42
+2024-09-14,Competitive Exams,26
+2024-09-15,Competitive Exams,19
+2024-09-16,Competitive Exams,44
+2024-09-17,Competitive Exams,43
+2024-09-18,Competitive Exams,48
+2024-09-19,Competitive Exams,48
+2024-09-20,Competitive Exams,50
+2024-09-21,Competitive Exams,31
+2024-09-22,Competitive Exams,18
+2024-09-23,Competitive Exams,51
+2024-09-24,Competitive Exams,57
+2024-09-25,Competitive Exams,52
+2024-09-26,Competitive Exams,69
+2024-09-27,Competitive Exams,59
+2024-09-28,Competitive Exams,36
+2024-09-29,Competitive Exams,12
+2024-09-30,Competitive Exams,48
+2024-10-01,Competitive Exams,41
+2024-10-02,Competitive Exams,11
+2024-10-03,Competitive Exams,40
+2024-10-04,Competitive Exams,52
+2024-10-05,Competitive Exams,25
+2024-10-06,Competitive Exams,19
+2024-10-07,Competitive Exams,48
+2024-10-08,Competitive Exams,51
+2024-10-09,Competitive Exams,62
+2024-10-10,Competitive Exams,56
+2024-10-11,Competitive Exams,34
+2024-10-12,Competitive Exams,7
+2024-10-13,Competitive Exams,18
+2024-10-14,Competitive Exams,34
+2024-10-15,Competitive Exams,51
+2024-10-16,Competitive Exams,35
+2024-10-17,Competitive Exams,39
+2024-10-18,Competitive Exams,31
+2024-10-19,Competitive Exams,33
+2024-10-20,Competitive Exams,18
+2024-10-21,Competitive Exams,48
+2024-10-22,Competitive Exams,54
+2024-10-23,Competitive Exams,61
+2024-10-24,Competitive Exams,40
+2024-10-25,Competitive Exams,42
+2024-10-26,Competitive Exams,29
+2024-10-27,Competitive Exams,13
+2024-10-28,Competitive Exams,48
+2024-10-29,Competitive Exams,47
+2024-10-30,Competitive Exams,45
+2024-10-31,Competitive Exams,40
+2024-11-01,Competitive Exams,4
+2024-11-02,Competitive Exams,34
+2024-11-03,Competitive Exams,20
+2024-11-04,Competitive Exams,64
+2024-11-05,Competitive Exams,35
+2024-11-06,Competitive Exams,45
+2024-11-07,Competitive Exams,57
+2024-11-08,Competitive Exams,32
+2024-11-09,Competitive Exams,20
+2024-11-10,Competitive Exams,15
+2024-11-11,Competitive Exams,45
+2024-11-12,Competitive Exams,48
+2024-11-13,Competitive Exams,39
+2024-11-14,Competitive Exams,49
+2024-11-15,Competitive Exams,43
+2024-11-16,Competitive Exams,24
+2024-11-17,Competitive Exams,14
+2024-11-18,Competitive Exams,50
+2024-11-19,Competitive Exams,42
+2024-11-20,Competitive Exams,53
+2024-11-21,Competitive Exams,50
+2024-11-22,Competitive Exams,46
+2024-11-23,Competitive Exams,39
+2024-11-24,Competitive Exams,31
+2024-11-25,Competitive Exams,67
+2024-11-26,Competitive Exams,96
+2024-11-27,Competitive Exams,67
+2024-11-28,Competitive Exams,71
+2024-11-29,Competitive Exams,57
+2024-11-30,Competitive Exams,42
+2024-12-01,Competitive Exams,34
+2024-12-02,Competitive Exams,67
+2024-12-03,Competitive Exams,60
+2024-12-04,Competitive Exams,64
+2024-12-05,Competitive Exams,64
+2024-12-06,Competitive Exams,41
+2024-12-07,Competitive Exams,37
+2024-12-08,Competitive Exams,19
+2024-12-09,Competitive Exams,66
+2024-12-10,Competitive Exams,63
+2024-12-11,Competitive Exams,69
+2024-12-12,Competitive Exams,77
+2024-12-13,Competitive Exams,52
+2024-12-14,Competitive Exams,36
+2024-12-15,Competitive Exams,8
+2024-12-16,Competitive Exams,11
+2024-12-17,Competitive Exams,14
+2024-12-18,Competitive Exams,24
+2024-12-19,Competitive Exams,16
+2024-12-20,Competitive Exams,15
+2024-12-21,Competitive Exams,9
+2024-12-22,Competitive Exams,11
+2024-12-23,Competitive Exams,12
+2024-12-24,Competitive Exams,14
+2024-12-25,Competitive Exams,0
+2024-12-26,Competitive Exams,14
+2024-12-27,Competitive Exams,10
+2024-12-28,Competitive Exams,9
+2024-12-29,Competitive Exams,4
+2024-12-30,Competitive Exams,13
+2024-12-31,Competitive Exams,20
+2025-01-01,Competitive Exams,19
+2025-01-02,Competitive Exams,19
+2025-01-03,Competitive Exams,10
+2025-01-04,Competitive Exams,12
+2025-01-05,Competitive Exams,6
+2025-01-06,Competitive Exams,64
+2025-01-07,Competitive Exams,60
+2025-01-08,Competitive Exams,47
+2025-01-09,Competitive Exams,41
+2025-01-10,Competitive Exams,52
+2025-01-11,Competitive Exams,30
+2025-01-12,Competitive Exams,19
+2025-01-13,Competitive Exams,65
+2025-01-14,Competitive Exams,48
+2025-01-15,Competitive Exams,53
+2025-01-16,Competitive Exams,52
+2025-01-17,Competitive Exams,47
+2025-01-18,Competitive Exams,23
+2025-01-19,Competitive Exams,17
+2025-01-20,Competitive Exams,40
+2025-01-21,Competitive Exams,52
+2025-01-22,Competitive Exams,58
+2025-01-23,Competitive Exams,45
+2025-01-24,Competitive Exams,47
+2025-01-25,Competitive Exams,22
+2025-01-26,Competitive Exams,2
+2025-01-27,Competitive Exams,53
+2025-01-28,Competitive Exams,62
+2025-01-29,Competitive Exams,47
+2025-01-30,Competitive Exams,40
+2025-01-31,Competitive Exams,34
+2025-02-01,Competitive Exams,37
+2025-02-02,Competitive Exams,17
+2025-02-03,Competitive Exams,53
+2025-02-04,Competitive Exams,51
+2025-02-05,Competitive Exams,57
+2025-02-06,Competitive Exams,40
+2025-02-07,Competitive Exams,36
+2025-02-08,Competitive Exams,37
+2025-02-09,Competitive Exams,19
+2025-02-10,Competitive Exams,42
+2025-02-11,Competitive Exams,50
+2025-02-12,Competitive Exams,41
+2025-02-13,Competitive Exams,51
+2025-02-14,Competitive Exams,35
+2025-02-15,Competitive Exams,23
+2025-02-16,Competitive Exams,18
+2025-02-17,Competitive Exams,42
+2025-02-18,Competitive Exams,55
+2025-02-19,Competitive Exams,53
+2025-02-20,Competitive Exams,59
+2025-02-21,Competitive Exams,54
+2025-02-22,Competitive Exams,37
+2025-02-23,Competitive Exams,20
+2025-02-24,Competitive Exams,63
+2025-02-25,Competitive Exams,62
+2025-02-26,Competitive Exams,85
+2025-02-27,Competitive Exams,63
+2025-02-28,Competitive Exams,61
+2025-03-01,Competitive Exams,47
+2025-03-02,Competitive Exams,13
+2025-03-03,Competitive Exams,45
+2025-03-04,Competitive Exams,53
+2025-03-05,Competitive Exams,38
+2025-03-06,Competitive Exams,54
+2025-03-07,Competitive Exams,46
+2025-03-08,Competitive Exams,25
+2025-03-09,Competitive Exams,22
+2025-03-10,Competitive Exams,53
+2025-03-11,Competitive Exams,44
+2025-03-12,Competitive Exams,55
+2025-03-13,Competitive Exams,43
+2025-03-14,Competitive Exams,1
+2025-03-15,Competitive Exams,29
+2025-03-16,Competitive Exams,22
+2025-03-17,Competitive Exams,39
+2025-03-18,Competitive Exams,45
+2025-03-19,Competitive Exams,54
+2025-03-20,Competitive Exams,50
+2025-03-21,Competitive Exams,47
+2025-03-22,Competitive Exams,24
+2025-03-23,Competitive Exams,19
+2025-03-24,Competitive Exams,45
+2025-03-25,Competitive Exams,59
+2025-03-26,Competitive Exams,58
+2025-03-27,Competitive Exams,43
+2025-03-28,Competitive Exams,40
+2025-03-29,Competitive Exams,37
+2025-03-30,Competitive Exams,25
+2025-03-31,Competitive Exams,48
+2025-04-01,Competitive Exams,67
+2025-04-02,Competitive Exams,44
+2025-04-03,Competitive Exams,51
+2025-04-04,Competitive Exams,35
+2025-04-05,Competitive Exams,25
+2025-04-06,Competitive Exams,23
+2025-04-07,Competitive Exams,61
+2025-04-08,Competitive Exams,41
+2025-04-09,Competitive Exams,64
+2025-04-10,Competitive Exams,53
+2025-04-11,Competitive Exams,42
+2025-04-12,Competitive Exams,25
+2025-04-13,Competitive Exams,18
+2025-04-14,Competitive Exams,43
+2025-04-15,Competitive Exams,52
+2025-04-16,Competitive Exams,64
+2025-04-17,Competitive Exams,45
+2025-04-18,Competitive Exams,40
+2025-04-19,Competitive Exams,33
+2025-04-20,Competitive Exams,22
+2025-04-21,Competitive Exams,44
+2025-04-22,Competitive Exams,51
+2025-04-23,Competitive Exams,44
+2025-04-24,Competitive Exams,45
+2025-04-25,Competitive Exams,52
+2025-04-26,Competitive Exams,40
+2025-04-27,Competitive Exams,33
+2025-04-28,Competitive Exams,76
+2025-04-29,Competitive Exams,86
+2025-04-30,Competitive Exams,63
+2025-05-01,Competitive Exams,62
+2025-05-02,Competitive Exams,59
+2025-05-03,Competitive Exams,42
+2025-05-04,Competitive Exams,26
+2025-05-05,Competitive Exams,62
+2025-05-06,Competitive Exams,63
+2025-05-07,Competitive Exams,68
+2025-05-08,Competitive Exams,54
+2025-05-09,Competitive Exams,75
+2025-05-10,Competitive Exams,41
+2025-05-11,Competitive Exams,26
+2025-05-12,Competitive Exams,71
+2025-05-13,Competitive Exams,87
+2025-05-14,Competitive Exams,89
+2025-05-15,Competitive Exams,76
+2025-05-16,Competitive Exams,51
+2025-05-17,Competitive Exams,37
+2025-05-18,Competitive Exams,10
+2025-05-19,Competitive Exams,20
+2025-05-20,Competitive Exams,21
+2025-05-21,Competitive Exams,16
+2025-05-22,Competitive Exams,25
+2025-05-23,Competitive Exams,14
+2025-05-24,Competitive Exams,8
+2025-05-25,Competitive Exams,4
+2025-05-26,Competitive Exams,12
+2025-05-27,Competitive Exams,22
+2025-05-28,Competitive Exams,17
+2025-05-29,Competitive Exams,14
+2025-05-30,Competitive Exams,20
+2025-05-31,Competitive Exams,11
+2025-06-01,Competitive Exams,8
+2025-06-02,Competitive Exams,19
+2025-06-03,Competitive Exams,10
+2025-06-04,Competitive Exams,21
+2025-06-05,Competitive Exams,23
+2025-06-06,Competitive Exams,11
+2025-06-07,Competitive Exams,10
+2025-06-08,Competitive Exams,9
+2025-06-09,Competitive Exams,19
+2025-06-10,Competitive Exams,24
+2025-06-11,Competitive Exams,26
+2025-06-12,Competitive Exams,17
+2025-06-13,Competitive Exams,14
+2025-06-14,Competitive Exams,14
+2025-06-15,Competitive Exams,7
+2025-06-16,Competitive Exams,23
+2025-06-17,Competitive Exams,23
+2025-06-18,Competitive Exams,28
+2025-06-19,Competitive Exams,20
+2025-06-20,Competitive Exams,19
+2025-06-21,Competitive Exams,13
+2025-06-22,Competitive Exams,10
+2025-06-23,Competitive Exams,19
+2025-06-24,Competitive Exams,17
+2025-06-25,Competitive Exams,21
+2025-06-26,Competitive Exams,21
+2025-06-27,Competitive Exams,17
+2025-06-28,Competitive Exams,22
+2025-06-29,Competitive Exams,7
+2025-06-30,Competitive Exams,20
+2025-07-01,Competitive Exams,21
+2025-07-02,Competitive Exams,11
+2025-07-03,Competitive Exams,18
+2025-07-04,Competitive Exams,18
+2025-07-05,Competitive Exams,11
+2025-07-06,Competitive Exams,7
+2025-07-07,Competitive Exams,32
+2025-07-08,Competitive Exams,28
+2025-07-09,Competitive Exams,33
+2025-07-10,Competitive Exams,16
+2025-07-11,Competitive Exams,20
+2025-07-12,Competitive Exams,11
+2025-07-13,Competitive Exams,8
+2025-07-14,Competitive Exams,19
+2025-07-15,Competitive Exams,28
+2025-07-16,Competitive Exams,19
+2025-07-17,Competitive Exams,26
+2025-07-18,Competitive Exams,12
+2025-07-19,Competitive Exams,10
+2025-07-20,Competitive Exams,10
+2025-07-21,Competitive Exams,55
+2025-07-22,Competitive Exams,54
+2025-07-23,Competitive Exams,67
+2025-07-24,Competitive Exams,41
+2025-07-25,Competitive Exams,42
+2025-07-26,Competitive Exams,40
+2025-07-27,Competitive Exams,20
+2025-07-28,Competitive Exams,46
+2025-07-29,Competitive Exams,54
+2025-07-30,Competitive Exams,46
+2025-07-31,Competitive Exams,59
+2025-08-01,Competitive Exams,58
+2025-08-02,Competitive Exams,21
+2025-08-03,Competitive Exams,25
+2025-08-04,Competitive Exams,46
+2025-08-05,Competitive Exams,60
+2025-08-06,Competitive Exams,47
+2025-08-07,Competitive Exams,44
+2025-08-08,Competitive Exams,46
+2025-08-09,Competitive Exams,31
+2025-08-10,Competitive Exams,18
+2025-08-11,Competitive Exams,58
+2025-08-12,Competitive Exams,48
+2025-08-13,Competitive Exams,51
+2025-08-14,Competitive Exams,51
+2025-08-15,Competitive Exams,13
+2025-08-16,Competitive Exams,33
+2025-08-17,Competitive Exams,14
+2025-08-18,Competitive Exams,44
+2025-08-19,Competitive Exams,52
+2025-08-20,Competitive Exams,54
+2025-08-21,Competitive Exams,49
+2025-08-22,Competitive Exams,46
+2025-08-23,Competitive Exams,21
+2025-08-24,Competitive Exams,35
+2025-08-25,Competitive Exams,60
+2025-08-26,Competitive Exams,53
+2025-08-27,Competitive Exams,46
+2025-08-28,Competitive Exams,46
+2025-08-29,Competitive Exams,42
+2025-08-30,Competitive Exams,28
+2025-08-31,Competitive Exams,23
+2025-09-01,Competitive Exams,44
+2025-09-02,Competitive Exams,51
+2025-09-03,Competitive Exams,59
+2025-09-04,Competitive Exams,49
+2025-09-05,Competitive Exams,46
+2025-09-06,Competitive Exams,27
+2025-09-07,Competitive Exams,21
+2025-09-08,Competitive Exams,39
+2025-09-09,Competitive Exams,61
+2025-09-10,Competitive Exams,67
+2025-09-11,Competitive Exams,50
+2025-09-12,Competitive Exams,52
+2025-09-13,Competitive Exams,32
+2025-09-14,Competitive Exams,15
+2025-09-15,Competitive Exams,52
+2025-09-16,Competitive Exams,48
+2025-09-17,Competitive Exams,70
+2025-09-18,Competitive Exams,49
+2025-09-19,Competitive Exams,54
+2025-09-20,Competitive Exams,46
+2025-09-21,Competitive Exams,24
+2025-09-22,Competitive Exams,91
+2025-09-23,Competitive Exams,92
+2025-09-24,Competitive Exams,67
+2025-09-25,Competitive Exams,75
+2025-09-26,Competitive Exams,51
+2025-09-27,Competitive Exams,42
+2025-09-28,Competitive Exams,19
+2025-09-29,Competitive Exams,54
+2025-09-30,Competitive Exams,48
+2025-10-01,Competitive Exams,50
+2025-10-02,Competitive Exams,12
+2025-10-03,Competitive Exams,46
+2025-10-04,Competitive Exams,37
+2025-10-05,Competitive Exams,25
+2025-10-06,Competitive Exams,43
+2025-10-07,Competitive Exams,53
+2025-10-08,Competitive Exams,52
+2025-10-09,Competitive Exams,56
+2025-10-10,Competitive Exams,39
+2025-10-11,Competitive Exams,27
+2025-10-12,Competitive Exams,21
+2025-10-13,Competitive Exams,37
+2025-10-14,Competitive Exams,55
+2025-10-15,Competitive Exams,46
+2025-10-16,Competitive Exams,46
+2025-10-17,Competitive Exams,45
+2025-10-18,Competitive Exams,33
+2025-10-19,Competitive Exams,20
+2025-10-20,Competitive Exams,9
+2025-10-21,Competitive Exams,54
+2025-10-22,Competitive Exams,60
+2025-10-23,Competitive Exams,51
+2025-10-24,Competitive Exams,40
+2025-10-25,Competitive Exams,27
+2025-10-26,Competitive Exams,21
+2025-10-27,Competitive Exams,65
+2025-10-28,Competitive Exams,63
+2025-10-29,Competitive Exams,55
+2025-10-30,Competitive Exams,48
+2025-10-31,Competitive Exams,42
+2025-11-01,Competitive Exams,32
+2025-11-02,Competitive Exams,25
+2025-11-03,Competitive Exams,53
+2025-11-04,Competitive Exams,59
+2025-11-05,Competitive Exams,50
+2025-11-06,Competitive Exams,60
+2025-11-07,Competitive Exams,45
+2025-11-08,Competitive Exams,32
+2025-11-09,Competitive Exams,27
+2025-11-10,Competitive Exams,59
+2025-11-11,Competitive Exams,52
+2025-11-12,Competitive Exams,50
+2025-11-13,Competitive Exams,44
+2025-11-14,Competitive Exams,67
+2025-11-15,Competitive Exams,23
+2025-11-16,Competitive Exams,33
+2025-11-17,Competitive Exams,58
+2025-11-18,Competitive Exams,59
+2025-11-19,Competitive Exams,67
+2025-11-20,Competitive Exams,55
+2025-11-21,Competitive Exams,60
+2025-11-22,Competitive Exams,40
+2025-11-23,Competitive Exams,36
+2025-11-24,Competitive Exams,78
+2025-11-25,Competitive Exams,64
+2025-11-26,Competitive Exams,85
+2025-11-27,Competitive Exams,77
+2025-11-28,Competitive Exams,74
+2025-11-29,Competitive Exams,46
+2025-11-30,Competitive Exams,46
+2025-12-01,Competitive Exams,81
+2025-12-02,Competitive Exams,87
+2025-12-03,Competitive Exams,81
+2025-12-04,Competitive Exams,86
+2025-12-05,Competitive Exams,60
+2025-12-06,Competitive Exams,46
+2025-12-07,Competitive Exams,32
+2025-12-08,Competitive Exams,86
+2025-12-09,Competitive Exams,63
+2025-12-10,Competitive Exams,75
+2025-12-11,Competitive Exams,77
+2025-12-12,Competitive Exams,70
+2025-12-13,Competitive Exams,39
+2025-12-14,Competitive Exams,9
+2025-12-15,Competitive Exams,18
+2025-12-16,Competitive Exams,15
+2025-12-17,Competitive Exams,16
+2025-12-18,Competitive Exams,24
+2025-12-19,Competitive Exams,28
+2025-12-20,Competitive Exams,12
+2025-12-21,Competitive Exams,7
+2025-12-22,Competitive Exams,24
+2025-12-23,Competitive Exams,22
+2025-12-24,Competitive Exams,22
+2025-12-25,Competitive Exams,5
+2025-12-26,Competitive Exams,20
+2025-12-27,Competitive Exams,13
+2025-12-28,Competitive Exams,4
+2025-12-29,Competitive Exams,13
+2025-12-30,Competitive Exams,22
+2025-12-31,Competitive Exams,20
+2026-01-01,Competitive Exams,20
+2026-01-02,Competitive Exams,14
+2026-01-03,Competitive Exams,12
+2026-01-04,Competitive Exams,6
+2026-01-05,Competitive Exams,47
+2026-01-06,Competitive Exams,53
+2026-01-07,Competitive Exams,56
+2026-01-08,Competitive Exams,45
+2026-01-09,Competitive Exams,69
+2026-01-10,Competitive Exams,40
+2026-01-11,Competitive Exams,25
+2026-01-12,Competitive Exams,53
+2026-01-13,Competitive Exams,71
+2026-01-14,Competitive Exams,44
+2026-01-15,Competitive Exams,42
+2026-01-16,Competitive Exams,48
+2026-01-17,Competitive Exams,25
+2026-01-18,Competitive Exams,23
+2026-01-19,Competitive Exams,60
+2026-01-20,Competitive Exams,56
+2026-01-21,Competitive Exams,60
+2026-01-22,Competitive Exams,72
+2026-01-23,Competitive Exams,40
+2026-01-24,Competitive Exams,27
+2026-01-25,Competitive Exams,24
+2026-01-26,Competitive Exams,10
+2026-01-27,Competitive Exams,65
+2026-01-28,Competitive Exams,74
+2026-01-29,Competitive Exams,63
+2026-01-30,Competitive Exams,38
+2026-01-31,Competitive Exams,36
+2026-02-01,Competitive Exams,15
+2026-02-02,Competitive Exams,50
+2026-02-03,Competitive Exams,56
+2026-02-04,Competitive Exams,60
+2026-02-05,Competitive Exams,60
+2026-02-06,Competitive Exams,42
+2026-02-07,Competitive Exams,36
+2026-02-08,Competitive Exams,27
+2026-02-09,Competitive Exams,50
+2026-02-10,Competitive Exams,55
+2026-02-11,Competitive Exams,68
+2026-02-12,Competitive Exams,57
+2026-02-13,Competitive Exams,61
+2026-02-14,Competitive Exams,42
+2026-02-15,Competitive Exams,19
+2026-02-16,Competitive Exams,49
+2026-02-17,Competitive Exams,56
+2026-02-18,Competitive Exams,55
+2026-02-19,Competitive Exams,69
+2026-02-20,Competitive Exams,46
+2026-02-21,Competitive Exams,34
+2026-02-22,Competitive Exams,22
+2026-02-23,Competitive Exams,82
+2026-02-24,Competitive Exams,97
+2026-02-25,Competitive Exams,76
+2026-02-26,Competitive Exams,82
+2026-02-27,Competitive Exams,75
+2026-02-28,Competitive Exams,53
+2026-03-01,Competitive Exams,19
+2026-03-02,Competitive Exams,52
+2026-03-03,Competitive Exams,57
+2026-03-04,Competitive Exams,14
+2026-03-05,Competitive Exams,57
+2026-03-06,Competitive Exams,56
+2026-03-07,Competitive Exams,32
+2026-03-08,Competitive Exams,19
+2026-03-09,Competitive Exams,59
+2026-03-10,Competitive Exams,52
+2026-03-11,Competitive Exams,58
+2026-03-12,Competitive Exams,51
+2026-03-13,Competitive Exams,59
+2026-03-14,Competitive Exams,35
+2026-03-15,Competitive Exams,18
+2026-03-16,Competitive Exams,60
+2026-03-17,Competitive Exams,61
+2026-03-18,Competitive Exams,65
+2026-03-19,Competitive Exams,54
+2026-03-20,Competitive Exams,53
+2026-03-21,Competitive Exams,40
+2026-03-22,Competitive Exams,27
+2026-03-23,Competitive Exams,57
+2026-03-24,Competitive Exams,49
+2026-03-25,Competitive Exams,70
+2026-03-26,Competitive Exams,52
+2026-03-27,Competitive Exams,48
+2026-03-28,Competitive Exams,30
+2026-03-29,Competitive Exams,21
+2026-03-30,Competitive Exams,60
+2026-03-31,Competitive Exams,54
+2026-04-01,Competitive Exams,58
+2026-04-02,Competitive Exams,60
+2026-04-03,Competitive Exams,42
+2026-04-04,Competitive Exams,30
+2026-04-05,Competitive Exams,21
+2026-04-06,Competitive Exams,64
+2026-04-07,Competitive Exams,55
+2026-04-08,Competitive Exams,71
+2026-04-09,Competitive Exams,57
+2026-04-10,Competitive Exams,45
+2026-04-11,Competitive Exams,34
+2026-04-12,Competitive Exams,26
+2026-04-13,Competitive Exams,54
+2026-04-14,Competitive Exams,67
+2026-04-15,Competitive Exams,56
+2026-04-16,Competitive Exams,63
+2026-04-17,Competitive Exams,55
+2026-04-18,Competitive Exams,26
+2026-04-19,Competitive Exams,23
+2026-04-20,Competitive Exams,51
+2026-04-21,Competitive Exams,52
+2026-04-22,Competitive Exams,62
+2026-04-23,Competitive Exams,80
+2026-04-24,Competitive Exams,57
+2026-04-25,Competitive Exams,36
+2026-04-26,Competitive Exams,32
+2026-04-27,Competitive Exams,76
+2026-04-28,Competitive Exams,92
+2026-04-29,Competitive Exams,76
+2026-04-30,Competitive Exams,86
+2026-05-01,Competitive Exams,75
+2026-05-02,Competitive Exams,44
+2026-05-03,Competitive Exams,33
+2026-05-04,Competitive Exams,83
+2026-05-05,Competitive Exams,90
+2026-05-06,Competitive Exams,83
+2026-05-07,Competitive Exams,69
+2026-05-08,Competitive Exams,89
+2026-05-09,Competitive Exams,67
+2026-05-10,Competitive Exams,31
+2026-05-11,Competitive Exams,77
+2026-05-12,Competitive Exams,68
+2026-05-13,Competitive Exams,88
+2026-05-14,Competitive Exams,84
+2026-05-15,Competitive Exams,74
+2026-05-16,Competitive Exams,44
+2026-05-17,Competitive Exams,4
+2026-05-18,Competitive Exams,19
+2026-05-19,Competitive Exams,21
+2026-05-20,Competitive Exams,23
+2026-05-21,Competitive Exams,24
+2026-05-22,Competitive Exams,13
+2026-05-23,Competitive Exams,14
+2026-05-24,Competitive Exams,10
+2026-05-25,Competitive Exams,31
+2026-05-26,Competitive Exams,21
+2026-05-27,Competitive Exams,23
+2026-05-28,Competitive Exams,25
+2026-05-29,Competitive Exams,16
+2026-05-30,Competitive Exams,16
+2026-05-31,Competitive Exams,9
+2026-06-01,Competitive Exams,23
+2026-06-02,Competitive Exams,24
+2026-06-03,Competitive Exams,13
+2026-06-04,Competitive Exams,21
+2026-06-05,Competitive Exams,16
+2026-06-06,Competitive Exams,12
+2026-06-07,Competitive Exams,6
+2026-06-08,Competitive Exams,22
+2026-06-09,Competitive Exams,22
+2026-06-10,Competitive Exams,27
+2026-06-11,Competitive Exams,14
+2026-06-12,Competitive Exams,10
+2026-06-13,Competitive Exams,15
+2026-06-14,Competitive Exams,8
+2026-06-15,Competitive Exams,18
+2026-06-16,Competitive Exams,20
+2026-06-17,Competitive Exams,24
+2026-06-18,Competitive Exams,21
+2026-06-19,Competitive Exams,21
+2026-06-20,Competitive Exams,13
+2026-06-21,Competitive Exams,8
+2026-06-22,Competitive Exams,25
+2026-06-23,Competitive Exams,25
+2026-06-24,Competitive Exams,24
+2026-06-25,Competitive Exams,15
+2026-06-26,Competitive Exams,20
+2026-06-27,Competitive Exams,19
+2026-06-28,Competitive Exams,14
+2026-06-29,Competitive Exams,25
+2026-06-30,Competitive Exams,23
