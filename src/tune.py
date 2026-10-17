@@ -135,7 +135,7 @@ def main(horizon=1):
     print("stacking weights:", dict(zip(builders, meta.coef_.round(3))),
           "| intercept:", round(float(meta.intercept_), 4))
 
-    base = pd.read_csv(REPORTS / f"model_comparison_val_h{horizon}.csv")
+    base = base[base["model"] != "Random Forest"]
     final = pd.concat([base, pd.DataFrame(rows)]).sort_values("MAE").reset_index(drop=True)
     final.to_csv(REPORTS / f"model_comparison_tuned_val_h{horizon}.csv", index=False)
     pd.set_option("display.width", 200, "display.max_columns", 20)
