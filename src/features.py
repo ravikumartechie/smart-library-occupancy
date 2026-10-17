@@ -88,4 +88,5 @@ def main(horizon: int = 1):
 
 
 if __name__ == "__main__":
-    main()
+    import sys
+    main(int(sys.argv[1]) if len(sys.argv) > 1 else 1)
