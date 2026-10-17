@@ -99,7 +99,7 @@ show_actual = st.sidebar.checkbox("Show actual occupancy (held-out test data)", 
 st.sidebar.caption(f"Alert threshold: {alert:.0%} (chosen on validation data)")
 
 st.title("Smart Library Occupancy & Resource Intelligence")
-st.caption("Demo on the held-out test period (Apr-Jun 2026) of a synthetic dataset. Each forecast uses only "
+st.caption("Demo on the held-out test period of a synthetic dataset. Each forecast uses only "
            f"information available {h} slot(s) earlier.")
 
 tab_live, tab_day, tab_pat, tab_books, tab_model = st.tabs(
