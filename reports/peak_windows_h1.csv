@@ -1,0 +1,13 @@
+zone,day,peak_hours
+Computer Lab,Mon,12:00-16:00
+Computer Lab,Tue,11:00-16:00
+Computer Lab,Wed,11:00-16:00
+Computer Lab,Thu,11:00-16:00
+Computer Lab,Fri,"12:00-13:00, 14:00-15:00"
+Reading Hall,Tue,17:00-19:00
+Reading Hall,Wed,18:00-19:00
+Silent Study,Mon,18:00-22:00
+Silent Study,Tue,18:00-22:00
+Silent Study,Wed,17:00-22:00
+Silent Study,Thu,18:00-22:00
+Silent Study,Fri,19:00-22:00
