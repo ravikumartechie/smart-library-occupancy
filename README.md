@@ -90,13 +90,6 @@ streamlit run app/streamlit_app.py
 `src/` pipeline code, `notebooks/` EDA, `data/` raw and processed data, `models/` saved models and best parameters,
 `reports/` metrics and figures, `app/` Streamlit app, `docs/screenshots/` screenshots.
 
-## Team
-| Name | Reg. No. | Contribution |
-|---|---|---|
-| <YOUR NAME> | 12401972 | <what you did> |
-| <teammate> | | |
-| <teammate> | | |
-
 ## Acknowledgements
 Libraries: pandas, NumPy, scikit-learn, LightGBM, XGBoost, Optuna, SHAP, Streamlit, Plotly, Matplotlib.
 AI coding assistance (Claude) was used for guidance and code drafts, as permitted for this course;
