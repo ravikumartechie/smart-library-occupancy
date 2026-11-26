@@ -5,8 +5,6 @@ INT395 Supervised Learning - Continuous Assessment Project (Project 06)
 
 **Live app:** <YOUR STREAMLIT LINK>
 
-![Live forecast](docs/screenshots/live_forecast.png)
-
 ## Problem
 Students waste time looking for seats at peak hours, library zones are used unevenly,
 and demand for books is hard to plan. This system forecasts zone-level occupancy
@@ -88,9 +86,7 @@ streamlit run app/streamlit_app.py
 
 ## Repository layout
 `src/` pipeline code, `notebooks/` EDA, `data/` raw and processed data, `models/` saved models and best parameters,
-`reports/` metrics and figures, `app/` Streamlit app, `docs/screenshots/` screenshots.
+`reports/` metrics and figures, `app/` Streamlit app.
 
 ## Acknowledgements
 Libraries: pandas, NumPy, scikit-learn, LightGBM, XGBoost, Optuna, SHAP, Streamlit, Plotly, Matplotlib.
-AI coding assistance (Claude) was used for guidance and code drafts, as permitted for this course;
-the team reviewed, tested and can explain every component.
