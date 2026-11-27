@@ -3,7 +3,7 @@
 
 INT395 Supervised Learning - Continuous Assessment Project (Project 06)
 
-**Live app:** <YOUR STREAMLIT LINK>
+**Live app:** <https://smart-library-occupancy-czoyrjsawqkg6hitsk5axs.streamlit.app/>
 
 ## Problem
 Students waste time looking for seats at peak hours, library zones are used unevenly,
